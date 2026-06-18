@@ -1,6 +1,7 @@
 # SpatialGH_InverseDesign
 
 This is the companion software repo for our paper on floorplan inverse design. It ships as a Grasshopper plugin (`SpatialGH_InverseDesign.zip`) plus an example definition (`InverseDesign_example.gh`) and the data it relies on (`database/`).
+The software is only available on windows.
 
 ## Installation
 
@@ -28,20 +29,18 @@ The example definition (`InverseDesign_example.gh`) needs to know where the data
 2. Find the input that points to the database folder (a path/string input feeding the plugin's database-loading component).
 3. Set it to the `database/` folder of **this** repo, given as a folder path (not a specific file inside it), e.g.:
    ```
-   E:\Projects\26Summer_Spatial\SpatialGH_InverseDesign\database
+   C:\Project\SpatialGH_InverseDesign\database
    ```
 
-The `database` folder contains:
-- `database.json` — the floorplan database
-- `test.json` — test split
-- `boundary_score.json`, `srds_score.json` — precomputed scores used by the components
 
-Once the path is set, the definition should run end to end.
+## Tutorial  video
+Watch this video to learn how the file works: https://youtu.be/XIRgZNS0fjU
+
 
 ## Troubleshooting
 
 - **Many components show errors:** re-activate the plugin license.
-- **Components still show errors after re-activating the license:** right-click on the canvas (or the affected component) → **Recompute**.
+- **Components still show errors after re-activating the license:** right-click on the canvas → **Recompute**.
 
 ## License
 
