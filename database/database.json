@@ -2,9 +2,13 @@
   {
     "info": {
       "id": "a987e37481c1",
+      "name": "Escher Terraces",
       "city": "Zurich",
       "country": "Switzerland",
       "area": 124.44580280394439,
+      "address": "Hardturmstrasse 7, 8005 Z\u00fcrich",
+      "location": "47.39125635643386, 8.51966234429895",
+      "description": "E2A 2013 - Escher Terraces Residential High-Rise",
       "bedrooms": 2,
       "bathrooms": 2,
       "database": "Zurich",
@@ -1006,9 +1010,13 @@
   {
     "info": {
       "id": "88d1751c5259",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 37.206492933750916,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 0,
       "bathrooms": 1,
       "database": "default",
@@ -1591,9 +1599,13 @@
   {
     "info": {
       "id": "0b2f2be27c1e",
+      "name": "Bishan Ridges HDB",
       "city": "Singapore",
       "country": "Singapore",
       "area": 47.13887536635343,
+      "address": "532A Bishan St 14, Singapore 572532",
+      "location": "1.353269741462865, 103.85274992952006",
+      "description": "Unit 2",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "Singapore",
@@ -2410,9 +2422,13 @@
   {
     "info": {
       "id": "6ff13f15f94a",
+      "name": "Carlton",
       "city": "New York",
       "country": "USA",
       "area": 108.44815999449597,
+      "address": "121 Madison Ave NY 10016",
+      "location": "40.74539954389088, -73.98452306363978",
+      "description": "Unit 12b",
       "bedrooms": 4,
       "bathrooms": 2,
       "database": "NYC",
@@ -4078,9 +4094,13 @@
   {
     "info": {
       "id": "b48bc9b5cd41",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 26.330895257098653,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "default",
@@ -4787,9 +4807,13 @@
   {
     "info": {
       "id": "987faf1bc6a8",
+      "name": "Carlton",
       "city": "New York",
       "country": "USA",
       "area": 79.93863883948234,
+      "address": "274 Mott St NY 10012",
+      "location": "40.72405178351951, -73.99425259885588",
+      "description": "Unit 1F",
       "bedrooms": 4,
       "bathrooms": 2,
       "database": "NYC",
@@ -5812,9 +5836,13 @@
   {
     "info": {
       "id": "7a6919c5dc57",
+      "name": "na",
       "city": "Zurich",
       "country": "Switzerland",
       "area": 119.1062242834887,
+      "address": "na",
+      "location": "47.37987291430379, 8.511064370136864",
+      "description": "Goldacker Binoclu",
       "bedrooms": 3,
       "bathrooms": 2,
       "database": "Zurich",
@@ -6852,9 +6880,13 @@
   {
     "info": {
       "id": "eae59475e763",
+      "name": "Wohnsiedlung Hardau I",
       "city": "Zurich",
       "country": "Switzerland",
       "area": 105.2542947626207,
+      "address": "Hardstrasse 27, 8004 Z\u00fcrich, Switzerland",
+      "location": "47.37987291430379, 8.511064370136864",
+      "description": "Competition Entry Breakfast",
       "bedrooms": 3,
       "bathrooms": 2,
       "database": "Zurich",
@@ -8008,9 +8040,13 @@
   {
     "info": {
       "id": "63b258af0567",
+      "name": "Carlton",
       "city": "Brooklyn",
       "country": "USA",
       "area": 150.1993284624042,
+      "address": "70 Prospect Park W NY11215",
+      "location": "40.6687084018441, -73.97395592525497",
+      "description": "Unit 1",
       "bedrooms": 4,
       "bathrooms": 3,
       "database": "NYC",
@@ -9990,9 +10026,13 @@
   {
     "info": {
       "id": "796831145dd5",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 52.568191743649564,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "default",
@@ -10668,9 +10708,13 @@
   {
     "info": {
       "id": "b1c01599995b",
+      "name": "Le Regal",
       "city": "Singapore",
       "country": "Singapore",
       "area": 30.258415594973485,
+      "address": "340 Geylang Rd, Singapore 389365",
+      "location": "1.3128342753085063, 103.88018071360403",
+      "description": "na",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "Singapore",
@@ -11257,9 +11301,13 @@
   {
     "info": {
       "id": "2ff83eb518cb",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 67.17062737043183,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 2,
       "bathrooms": 2,
       "database": "default",
@@ -12061,9 +12109,13 @@
   {
     "info": {
       "id": "4b184ec04b34",
+      "name": "na",
       "city": "Zurich",
       "country": "Switzerland",
       "area": 47.00180267740507,
+      "address": "na",
+      "location": "47.40339622285793, 8.604245692901165",
+      "description": "Gut Schoepp 2023 - HeidiAbel Competition",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "Zurich",
@@ -12575,9 +12627,13 @@
   {
     "info": {
       "id": "6627746e96bb",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 52.2388491482823,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 0,
       "bathrooms": 1,
       "database": "default",
@@ -13085,9 +13141,13 @@
   {
     "info": {
       "id": "69d52ae96dbc",
+      "name": "Hegianwanderweg",
       "city": "Zurich",
       "country": "Switzerland",
       "area": 135.20995487216533,
+      "address": "na",
+      "location": "47.37437299691268, 8.520372810133646",
+      "description": "EM2N 2003 - Hegianwanderweg Residential",
       "bedrooms": 3,
       "bathrooms": 2,
       "database": "Zurich",
@@ -14432,9 +14492,13 @@
   {
     "info": {
       "id": "b2f2bd607ce7",
+      "name": "514",
       "city": "Brooklyn",
       "country": "USA",
       "area": 116.73981811798876,
+      "address": "541 8th St, NY 11215",
+      "location": "40.666093743137935, -73.97735848280279",
+      "description": "Unit 2R",
       "bedrooms": 3,
       "bathrooms": 2,
       "database": "NYC",
@@ -16135,9 +16199,13 @@
   {
     "info": {
       "id": "4c4965862e9c",
+      "name": "27 W",
       "city": "New York",
       "country": "USA",
       "area": 156.48281824649894,
+      "address": "27 W 96th St NY 10025",
+      "location": "40.79268299862347, -73.96603186072946",
+      "description": "Unit 5A",
       "bedrooms": 2,
       "bathrooms": 3,
       "database": "NYC",
@@ -18100,9 +18168,13 @@
   {
     "info": {
       "id": "528795f7e0e5",
+      "name": "Bishan Towers HDB",
       "city": "Singapore",
       "country": "Singapore",
       "area": 48.107347532878066,
+      "address": "156B Bishan St. 13, Singapore 572156",
+      "location": "1.3442737104748188, 103.85676564480067",
+      "description": "Unit 1",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "Singapore",
@@ -18906,9 +18978,13 @@
   {
     "info": {
       "id": "82480c8314d6",
+      "name": "125 E",
       "city": "New York",
       "country": "USA",
       "area": 101.92766898036643,
+      "address": "125 E 87th St NY 10128",
+      "location": "40.78050371522893, -73.9553315926583",
+      "description": "Unit 6d",
       "bedrooms": 3,
       "bathrooms": 2,
       "database": "NYC",
@@ -20840,9 +20916,13 @@
   {
     "info": {
       "id": "bad30fe44524",
+      "name": "Riverfront Residences",
       "city": "Singapore",
       "country": "Singapore",
       "area": 47.45817087843898,
+      "address": "41 Hougang Ave 7, Singapore 533813",
+      "location": "1.3702078699546751, 103.89997413399682",
+      "description": "na",
       "bedrooms": 2,
       "bathrooms": 2,
       "database": "Singapore",
@@ -21857,9 +21937,13 @@
   {
     "info": {
       "id": "a79ca0ca0288",
+      "name": "287 York",
       "city": "Jersey City",
       "country": "USA",
       "area": 139.59153631296067,
+      "address": "287 York St, NJ 07302",
+      "location": "40.717596110333574, -74.04728468720604",
+      "description": "Unit 1",
       "bedrooms": 3,
       "bathrooms": 2,
       "database": "NYC",
@@ -23833,9 +23917,13 @@
   {
     "info": {
       "id": "0ac1724c323b",
+      "name": "Alexandra View HBD",
       "city": "Singapore",
       "country": "Singapore",
       "area": 63.28026616400348,
+      "address": "109B Alexandra View, Singapore 152109",
+      "location": "1.2898718888952068, 103.81799587118162",
+      "description": "Unit 1",
       "bedrooms": 2,
       "bathrooms": 2,
       "database": "Singapore",
@@ -25014,9 +25102,13 @@
   {
     "info": {
       "id": "2b6be1308490",
+      "name": "Carlton",
       "city": "Brooklyn",
       "country": "USA",
       "area": 67.88874163766377,
+      "address": "535 Carlton Ave NY11238",
+      "location": "40.681192441973316, -73.9707676643865",
+      "description": "Unit 8, 2020",
       "bedrooms": 2,
       "bathrooms": 2,
       "database": "NYC",
@@ -26448,9 +26540,13 @@
   {
     "info": {
       "id": "2a2516733391",
+      "name": "na",
       "city": "Zurich",
       "country": "Switzerland",
       "area": 107.22252221388044,
+      "address": "na",
+      "location": "47.37987291430379, 8.511064370136864",
+      "description": "Letzibach Fiji",
       "bedrooms": 3,
       "bathrooms": 1,
       "database": "Zurich",
@@ -27510,9 +27606,13 @@
   {
     "info": {
       "id": "2c5975c4d778",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 64.58537130704516,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 1,
       "bathrooms": 0,
       "database": "default",
@@ -27882,9 +27982,13 @@
   {
     "info": {
       "id": "37766b4b3a7f",
+      "name": "Kent Ridge Hill Residences",
       "city": "Singapore",
       "country": "Singapore",
       "area": 30.42552048880316,
+      "address": "68B South Buona Vista Rd, Singapore 117330",
+      "location": "1.281248741460198, 103.78972021872653",
+      "description": "na",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "Singapore",
@@ -28389,9 +28493,13 @@
   {
     "info": {
       "id": "ccc06b4c4b57",
+      "name": "Centro Residences",
       "city": "Singapore",
       "country": "Singapore",
       "area": 64.80571115427665,
+      "address": "59 Ang Mo Kio Ave 8, Singapore 567752",
+      "location": "1.370612980746979, 103.84863563596477",
+      "description": "na",
       "bedrooms": 2,
       "bathrooms": 2,
       "database": "Singapore",
@@ -29304,9 +29412,13 @@
   {
     "info": {
       "id": "fef2faf8be59",
+      "name": "Delmas Park",
       "city": "San Jose",
       "country": "USA",
       "area": 52.40551298826176,
+      "address": "350 Barack Obama Blvd CA 95126",
+      "location": "37.32444331665218, -121.89993925627509",
+      "description": "Unit 7",
       "bedrooms": 2,
       "bathrooms": 1,
       "database": "bay area affordable housing",
@@ -30511,9 +30623,13 @@
   {
     "info": {
       "id": "de89ea4959ad",
+      "name": "Waterside Plaza",
       "city": "New York",
       "country": "USA",
       "area": 132.33102237168714,
+      "address": "30 Waterside Plaza #1031d, NY 10010",
+      "location": "40.737884992938554, -73.97293890732341",
+      "description": "Unit 1031d",
       "bedrooms": 3,
       "bathrooms": 2,
       "database": "NYC",
@@ -31793,9 +31909,13 @@
   {
     "info": {
       "id": "d575bc1e0468",
+      "name": "Ironhorse at Central Station",
       "city": "Oakland",
       "country": "USA",
       "area": 129.52454923851474,
+      "address": "1801 14th St CA 94607",
+      "location": "37.81365051639731, -122.29937772843857",
+      "description": "Unit 2",
       "bedrooms": 3,
       "bathrooms": 2,
       "database": "bay area affordable housing",
@@ -33723,9 +33843,13 @@
   {
     "info": {
       "id": "54151a22dd0b",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 57.47702406877495,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "default",
@@ -34396,9 +34520,13 @@
   {
     "info": {
       "id": "84dc97e27adc",
+      "name": "Grammercy",
       "city": "New York",
       "country": "USA",
       "area": 88.14643712445104,
+      "address": "2 Lexington Ave NY10010",
+      "location": "40.725841483512085, -73.9998108026952",
+      "description": "Unit 7, 1990",
       "bedrooms": 2,
       "bathrooms": 1,
       "database": "NYC",
@@ -35218,9 +35346,13 @@
   {
     "info": {
       "id": "9a3597c1d400",
+      "name": "na",
       "city": "Zurich",
       "country": "Switzerland",
       "area": 78.27432276395848,
+      "address": "na",
+      "location": "47.37987291430379, 8.511064370136864",
+      "description": "Letzibach Einsundrei",
       "bedrooms": 2,
       "bathrooms": 1,
       "database": "Zurich",
@@ -35835,9 +35967,13 @@
   {
     "info": {
       "id": "51e3469b21f6",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 73.21828800322633,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 2,
       "bathrooms": 1,
       "database": "default",
@@ -36446,9 +36582,13 @@
   {
     "info": {
       "id": "56d5f2f02e47",
+      "name": "Hope Street",
       "city": "Brooklyn",
       "country": "USA",
       "area": 62.32460362723941,
+      "address": "8 Marcy Ave, NY11211",
+      "location": "40.713681773483636, -73.95484711339975",
+      "description": "Unit 1, 2020",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "NYC",
@@ -37118,9 +37258,13 @@
   {
     "info": {
       "id": "e5aaaca6a4ca",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 57.98059989558777,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "default",
@@ -37696,9 +37840,13 @@
   {
     "info": {
       "id": "2e970f23dd5a",
+      "name": "Kandis Residence",
       "city": "Singapore",
       "country": "Singapore",
       "area": 51.27652593862149,
+      "address": "8 Kandis Link, #04-16 KANDIS RESIDENCE, Singapore 756967",
+      "location": "1.4562984690918181, 103.83713103142978",
+      "description": "na",
       "bedrooms": 2,
       "bathrooms": 2,
       "database": "Singapore",
@@ -38478,9 +38626,13 @@
   {
     "info": {
       "id": "5aa013f02dde",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 46.62670776360062,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "default",
@@ -39056,9 +39208,13 @@
   {
     "info": {
       "id": "acad00beeda2",
+      "name": "Tampines Green Jade HDB",
       "city": "Singapore",
       "country": "Singapore",
       "area": 105.08827061096963,
+      "address": "956A Tampines St. 96, Singapore 521956",
+      "location": "1.3418104198447176, 103.93509666751798",
+      "description": "Unit 8",
       "bedrooms": 3,
       "bathrooms": 2,
       "database": "Singapore",
@@ -40379,9 +40535,13 @@
   {
     "info": {
       "id": "2a9693d1b48e",
+      "name": "na",
       "city": "Zurich",
       "country": "Switzerland",
       "area": 136.18884797947248,
+      "address": "na",
+      "location": "47.37987291430379, 8.511064370136864",
+      "description": "Holzer Kobler 2005",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "Zurich",
@@ -41189,9 +41349,13 @@
   {
     "info": {
       "id": "822160ce7c48",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 21.416837289115307,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "default",
@@ -41664,9 +41828,13 @@
   {
     "info": {
       "id": "d0677b920b77",
+      "name": "River Peaks HDB",
       "city": "Singapore",
       "country": "Singapore",
       "area": 87.69408971460052,
+      "address": "37 Weld Rd, Singapore 200037",
+      "location": "1.3043549667858354, 103.85561003545737",
+      "description": "Unit 1",
       "bedrooms": 3,
       "bathrooms": 2,
       "database": "Singapore",
@@ -42909,9 +43077,13 @@
   {
     "info": {
       "id": "8ee256688ea0",
+      "name": "Carlton",
       "city": "New York",
       "country": "USA",
       "area": 120.04107296538177,
+      "address": "174 Hester St, NY10013",
+      "location": "40.717886953355574, -73.99766294085089",
+      "description": "Unit 16",
       "bedrooms": 4,
       "bathrooms": 2,
       "database": "NYC",
@@ -44233,9 +44405,13 @@
   {
     "info": {
       "id": "03f159c8ee4e",
+      "name": "Carlton",
       "city": "New York",
       "country": "USA",
       "area": 195.4585511268558,
+      "address": "160 E 88th St NY 10128",
+      "location": "40.78058496020028, -73.95436428107936",
+      "description": "Unit 2",
       "bedrooms": 4,
       "bathrooms": 4,
       "database": "NYC",
@@ -45899,9 +46075,13 @@
   {
     "info": {
       "id": "6ec586724f2d",
+      "name": "Cambridge",
       "city": "Brooklyn",
       "country": "USA",
       "area": 91.456947273673,
+      "address": "116 Cambridge Pl, NY 11238",
+      "location": "40.6836852264928, -73.96316196151473",
+      "description": "Unit 3c",
       "bedrooms": 3,
       "bathrooms": 1,
       "database": "NYC",
@@ -47480,9 +47660,13 @@
   {
     "info": {
       "id": "c2b02e0bbc1c",
+      "name": "Edwin M. Lee Apartments",
       "city": "San Francisco",
       "country": "USA",
       "area": 45.00522618260584,
+      "address": "1150 3rd St CA 94158",
+      "location": "37.773303569885115, -122.39002774862479",
+      "description": "Unit 2",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "bay area affordable housing",
@@ -48270,9 +48454,13 @@
   {
     "info": {
       "id": "da43d2f7d31e",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 38.292645139315134,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 0,
       "bathrooms": 1,
       "database": "default",
@@ -48860,9 +49048,13 @@
   {
     "info": {
       "id": "5f528be3af99",
+      "name": "Grammercy",
       "city": "New York",
       "country": "USA",
       "area": 109.56138183559233,
+      "address": "2 Lexington Ave NY10010",
+      "location": "40.725841483512085, -73.9998108026952",
+      "description": "Unit 12, 1990",
       "bedrooms": 2,
       "bathrooms": 1,
       "database": "NYC",
@@ -49672,9 +49864,13 @@
   {
     "info": {
       "id": "08629c50508e",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 36.038357054217606,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "default",
@@ -50504,9 +50700,13 @@
   {
     "info": {
       "id": "f898bb4e2c7d",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 46.30560041938683,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "default",
@@ -51338,9 +51538,13 @@
   {
     "info": {
       "id": "c22b2a8a2f79",
+      "name": "na",
       "city": "Zurich",
       "country": "Switzerland",
       "area": 134.1347490879707,
+      "address": "na",
+      "location": "47.37987291430379, 8.511064370136864",
+      "description": "Goldacker Binoclu",
       "bedrooms": 3,
       "bathrooms": 2,
       "database": "Zurich",
@@ -52385,9 +52589,13 @@
   {
     "info": {
       "id": "d509f756237d",
+      "name": "Bishan Towers HDB",
       "city": "Singapore",
       "country": "Singapore",
       "area": 67.07255156976134,
+      "address": "156B Bishan St. 13, Singapore 572156",
+      "location": "1.3442737104748188, 103.85676564480067",
+      "description": "Unit 1",
       "bedrooms": 2,
       "bathrooms": 2,
       "database": "Singapore",
@@ -53521,9 +53729,13 @@
   {
     "info": {
       "id": "d597b86ab731",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 84.30616765944124,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 2,
       "bathrooms": 2,
       "database": "default",
@@ -54326,9 +54538,13 @@
   {
     "info": {
       "id": "79da84571d2d",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 58.16779201680811,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "default",
@@ -55111,9 +55327,13 @@
   {
     "info": {
       "id": "3fc743ae0924",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 49.14525310564708,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "default",
@@ -55922,9 +56142,13 @@
   {
     "info": {
       "id": "3dbe1d02278d",
+      "name": "Eunos Court HDB",
       "city": "Singapore",
       "country": "Singapore",
       "area": 47.16791180350265,
+      "address": "38A Eunos Rd 2, Singapore 401038",
+      "location": "1.3214423125745771, 103.90000409531972",
+      "description": "Unit C",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "Singapore",
@@ -56663,9 +56887,13 @@
   {
     "info": {
       "id": "c955d6625412",
+      "name": "Bartley Beacon HDB",
       "city": "Singapore",
       "country": "Singapore",
       "area": 64.27792948093884,
+      "address": "223A Mount Vernon Rd, Singapore",
+      "location": "1.3420330921201462, 103.8795973695313",
+      "description": "Unit 2",
       "bedrooms": 2,
       "bathrooms": 2,
       "database": "Singapore",
@@ -57867,9 +58095,13 @@
   {
     "info": {
       "id": "b706fe5b6305",
+      "name": "Edwin M. Lee Apartments",
       "city": "San Francisco",
       "country": "USA",
       "area": 97.66570859364583,
+      "address": "1150 3rd St CA 94158",
+      "location": "37.773303569885115, -122.39002774862479",
+      "description": "Unit 5",
       "bedrooms": 3,
       "bathrooms": 2,
       "database": "bay area affordable housing",
@@ -59318,9 +59550,13 @@
   {
     "info": {
       "id": "4d9d4e58a07a",
+      "name": "Carlton",
       "city": "Brooklyn",
       "country": "USA",
       "area": 44.05818185622047,
+      "address": "535 Carlton Ave NY11238",
+      "location": "40.681192441973316, -73.9707676643865",
+      "description": "Unit 20, 2020",
       "bedrooms": 0,
       "bathrooms": 1,
       "database": "NYC",
@@ -59902,9 +60138,13 @@
   {
     "info": {
       "id": "c778f12ce980",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 109.52353772912141,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 1,
       "bathrooms": 2,
       "database": "default",
@@ -60465,9 +60705,13 @@
   {
     "info": {
       "id": "5760a4f84eb3",
+      "name": "House on handy",
       "city": "Singapore",
       "country": "Singapore",
       "area": 25.995205286249984,
+      "address": "10 Mount Sophia, Singapore 228459",
+      "location": "1.3001420700355797, 103.8461568224154",
+      "description": "na",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "Singapore",
@@ -60964,9 +61208,13 @@
   {
     "info": {
       "id": "15d0f77f3685",
+      "name": "Sumpter",
       "city": "Brooklyn",
       "country": "USA",
       "area": 74.79954366781749,
+      "address": "279 Sumpter St, NY 11233",
+      "location": "40.68103229333533, -73.91379540994384",
+      "description": "Unit 4C",
       "bedrooms": 2,
       "bathrooms": 2,
       "database": "NYC",
@@ -62042,9 +62290,13 @@
   {
     "info": {
       "id": "3d741e835414",
+      "name": "na",
       "city": "Zurich",
       "country": "Switzerland",
       "area": 71.11650742543861,
+      "address": "na",
+      "location": "47.40339622285793, 8.604245692901165",
+      "description": "Gut Schoepp 2023 - HeidiAbel Competition",
       "bedrooms": 2,
       "bathrooms": 1,
       "database": "Zurich",
@@ -62761,9 +63013,13 @@
   {
     "info": {
       "id": "3d1120993a02",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 67.94023211353064,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 0,
       "bathrooms": 1,
       "database": "default",
@@ -63457,9 +63713,13 @@
   {
     "info": {
       "id": "a3215eaa8957",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 82.7748156360942,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 1,
       "bathrooms": 0,
       "database": "default",
@@ -63828,9 +64088,13 @@
   {
     "info": {
       "id": "d0e63b9d8f1e",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 91.52578404225439,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 2,
       "bathrooms": 2,
       "database": "default",
@@ -64835,9 +65099,13 @@
   {
     "info": {
       "id": "a9eff114c538",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 26.24101768476098,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 0,
       "bathrooms": 1,
       "database": "default",
@@ -65309,9 +65577,13 @@
   {
     "info": {
       "id": "29ac4f01eacf",
+      "name": "Carlton",
       "city": "Brooklyn",
       "country": "USA",
       "area": 40.60808212958182,
+      "address": "535 Carlton Ave NY11238",
+      "location": "40.681192441973316, -73.9707676643865",
+      "description": "Unit 3, 2020",
       "bedrooms": 0,
       "bathrooms": 1,
       "database": "NYC",
@@ -65874,9 +66146,13 @@
   {
     "info": {
       "id": "89a01e614957",
+      "name": "250 W",
       "city": "New York",
       "country": "USA",
       "area": 101.4645027269944,
+      "address": "250 W 104th St NY10025",
+      "location": "40.8000002518433, -73.96902433600302",
+      "description": "Unit 82",
       "bedrooms": 3,
       "bathrooms": 2,
       "database": "NYC",
@@ -67356,9 +67632,13 @@
   {
     "info": {
       "id": "c02f35e3bfe4",
+      "name": "Kalkbreite",
       "city": "Zurich",
       "country": "Switzerland",
       "area": 38.757871622481616,
+      "address": "Kalkbreitestrasse 6, CH-8003",
+      "location": "47.37437299691268, 8.520372810133646",
+      "description": "Mueller Sigrist 2014",
       "bedrooms": 0,
       "bathrooms": 1,
       "database": "Zurich",
@@ -67831,9 +68111,13 @@
   {
     "info": {
       "id": "471bb987fe26",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 90.60701366081892,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "default",
@@ -68654,9 +68938,13 @@
   {
     "info": {
       "id": "43efce1fe0d0",
+      "name": "The Plaza",
       "city": "Singapore",
       "country": "Singapore",
       "area": 38.6488399007485,
+      "address": "7500B Beach Rd, Singapore 199592",
+      "location": "1.2997976643613784, 103.86060958153557",
+      "description": "na",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "Singapore",
@@ -69136,9 +69424,13 @@
   {
     "info": {
       "id": "09e7a702460f",
+      "name": "Laney UWS Apartments",
       "city": "New York",
       "country": "USA",
       "area": 165.17720833128988,
+      "address": "201 W 77th St NY10024",
+      "location": "40.78211744917588, -73.9795897551874",
+      "description": "Unit 8C",
       "bedrooms": 4,
       "bathrooms": 4,
       "database": "NYC",
@@ -71004,9 +71296,13 @@
   {
     "info": {
       "id": "b36a49ebd58e",
+      "name": "Kalkbreite",
       "city": "Zurich",
       "country": "Switzerland",
       "area": 41.75828328782518,
+      "address": "Kalkbreitestrasse 6, CH-8003",
+      "location": "47.37437299691268, 8.520372810133646",
+      "description": "Mueller Sigrist 2014",
       "bedrooms": 0,
       "bathrooms": 1,
       "database": "Zurich",
@@ -71394,9 +71690,13 @@
   {
     "info": {
       "id": "933e58b22c2c",
+      "name": "Eunos Court HDB",
       "city": "Singapore",
       "country": "Singapore",
       "area": 102.50392564680806,
+      "address": "38A Eunos Rd 2, Singapore 401038",
+      "location": "1.3214423125745771, 103.90000409531972",
+      "description": "Unit G",
       "bedrooms": 3,
       "bathrooms": 2,
       "database": "Singapore",
@@ -72693,9 +72993,13 @@
   {
     "info": {
       "id": "51aa4cd0cc9a",
+      "name": "na",
       "city": "Zurich",
       "country": "Switzerland",
       "area": 102.00666299130535,
+      "address": "na",
+      "location": "47.37987291430379, 8.511064370136864",
+      "description": "Goldacker Binoclu",
       "bedrooms": 2,
       "bathrooms": 1,
       "database": "Zurich",
@@ -73535,9 +73839,13 @@
   {
     "info": {
       "id": "2c420c0e6db3",
+      "name": "Kalkbreite",
       "city": "Zurich",
       "country": "Switzerland",
       "area": 56.558941927796695,
+      "address": "Kalkbreitestrasse 6, CH-8003",
+      "location": "47.37437299691268, 8.520372810133646",
+      "description": "Mueller Sigrist 2014",
       "bedrooms": 0,
       "bathrooms": 1,
       "database": "Zurich",
@@ -74027,9 +74335,13 @@
   {
     "info": {
       "id": "ebd79d6e9c18",
+      "name": "Kingsford Waterbay",
       "city": "Singapore",
       "country": "Singapore",
       "area": 30.403628720756387,
+      "address": "68 Upper Serangoon View, Singapore 533884",
+      "location": "1.3753631132311506, 103.90410136041723",
+      "description": "na",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "Singapore",
@@ -74611,9 +74923,13 @@
   {
     "info": {
       "id": "e278ca6fb0e2",
+      "name": "Chatham Towers",
       "city": "New York",
       "country": "USA",
       "area": 152.90764891164145,
+      "address": "170 Park Row NY 10038",
+      "location": "40.71387965788034, -74.00003827489869",
+      "description": "Unit 1",
       "bedrooms": 2,
       "bathrooms": 1,
       "database": "NYC",
@@ -75708,9 +76024,13 @@
   {
     "info": {
       "id": "32ed341b8072",
+      "name": "Sango Court",
       "city": "Milpitas",
       "country": "USA",
       "area": 114.9825395325679,
+      "address": "355 Sango Ct CA95035",
+      "location": "37.40722498001695, -121.89323107073375",
+      "description": "Right Unit 4",
       "bedrooms": 2,
       "bathrooms": 1,
       "database": "bay area affordable housing",
@@ -76272,9 +76592,13 @@
   {
     "info": {
       "id": "5694ec0c2051",
+      "name": "Barclays",
       "city": "Brooklyn",
       "country": "USA",
       "area": 97.57158153177443,
+      "address": "18 6th Ave NY 11217",
+      "location": "40.68271042775637, -73.97417442958357",
+      "description": "Unit 704",
       "bedrooms": 3,
       "bathrooms": 2,
       "database": "NYC",
@@ -77954,9 +78278,13 @@
   {
     "info": {
       "id": "0d696f648443",
+      "name": "Forsyth",
       "city": "New York",
       "country": "USA",
       "area": 161.657709330917,
+      "address": "110 Charlton St NY 10014",
+      "location": "40.727139258091654, -74.00854681244309",
+      "description": "Unit 25c",
       "bedrooms": 3,
       "bathrooms": 4,
       "database": "NYC",
@@ -79613,9 +79941,13 @@
   {
     "info": {
       "id": "746318c8f407",
+      "name": "Aspen Heights",
       "city": "Singapore",
       "country": "Singapore",
       "area": 128.4118847730606,
+      "address": "261 River Valley Rd, Singapore 238307",
+      "location": "1.2949376713606116, 103.84004122778144",
+      "description": "Unit 1",
       "bedrooms": 3,
       "bathrooms": 3,
       "database": "Singapore",
@@ -81246,9 +81578,13 @@
   {
     "info": {
       "id": "618cbd878774",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 28.108092313817846,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 0,
       "bathrooms": 1,
       "database": "default",
@@ -81831,9 +82167,13 @@
   {
     "info": {
       "id": "f911d3ef50a2",
+      "name": "Kalkbreite",
       "city": "Zurich",
       "country": "Switzerland",
       "area": 105.39338180149207,
+      "address": "Kalkbreitestrasse 6, CH-8003",
+      "location": "47.37437299691268, 8.520372810133646",
+      "description": "Mueller Sigrist 2014",
       "bedrooms": 3,
       "bathrooms": 2,
       "database": "Zurich",
@@ -82743,9 +83083,13 @@
   {
     "info": {
       "id": "673cb370ab43",
+      "name": "Grammercy",
       "city": "New York",
       "country": "USA",
       "area": 182.13914272737748,
+      "address": "2 Lexington Ave NY10010",
+      "location": "40.725841483512085, -73.9998108026952",
+      "description": "Unit 11, 1990",
       "bedrooms": 2,
       "bathrooms": 2,
       "database": "NYC",
@@ -83833,9 +84177,13 @@
   {
     "info": {
       "id": "dc472d7d0653",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 43.20198568597314,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "default",
@@ -84616,9 +84964,13 @@
   {
     "info": {
       "id": "14bf52c7077b",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 54.76059253579874,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 0,
       "bathrooms": 1,
       "database": "default",
@@ -85028,9 +85380,13 @@
   {
     "info": {
       "id": "1e44045aa30a",
+      "name": "West End Towers",
       "city": "New York",
       "country": "USA",
       "area": 102.01965301045857,
+      "address": "75 West End Ave NY 10023",
+      "location": "40.77423567621273, -73.98921993480958",
+      "description": "Unit C22J",
       "bedrooms": 3,
       "bathrooms": 2,
       "database": "NYC",
@@ -86823,9 +87179,13 @@
   {
     "info": {
       "id": "6f95cdcf781f",
+      "name": "Broad St",
       "city": "New York",
       "country": "USA",
       "area": 94.62930663241423,
+      "address": "25 Broad St NY 10004",
+      "location": "40.70612874132411, -74.01069596431584",
+      "description": "na",
       "bedrooms": 2,
       "bathrooms": 2,
       "database": "NYC",
@@ -88084,9 +88444,13 @@
   {
     "info": {
       "id": "0b87d40d9a4c",
+      "name": "Forsyth",
       "city": "New York",
       "country": "USA",
       "area": 71.56491034244391,
+      "address": "110 Forsyth St NY 10002",
+      "location": "40.719040335694615, -73.99233253037727",
+      "description": "Unit 12a",
       "bedrooms": 3,
       "bathrooms": 1,
       "database": "NYC",
@@ -88948,9 +89312,13 @@
   {
     "info": {
       "id": "a516ab8a6a9b",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 66.06123996426626,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "default",
@@ -89829,9 +90197,13 @@
   {
     "info": {
       "id": "71a7a9d863a8",
+      "name": "Hope Street",
       "city": "Brooklyn",
       "country": "USA",
       "area": 93.63762648026022,
+      "address": "8 Marcy Ave, NY11211",
+      "location": "40.713681773483636, -73.95484711339975",
+      "description": "Unit 12, 2020",
       "bedrooms": 2,
       "bathrooms": 2,
       "database": "NYC",
@@ -90839,9 +91211,13 @@
   {
     "info": {
       "id": "51a04adab0fb",
+      "name": "Carlton",
       "city": "Brooklyn",
       "country": "USA",
       "area": 80.49119078464719,
+      "address": "535 Carlton Ave NY11238",
+      "location": "40.681192441973316, -73.9707676643865",
+      "description": "Unit 16, 2020",
       "bedrooms": 2,
       "bathrooms": 2,
       "database": "NYC",
@@ -91851,9 +92227,13 @@
   {
     "info": {
       "id": "0782dbbedf65",
+      "name": "La Avenida",
       "city": "Mountain View",
       "country": "USA",
       "area": 56.751899847833556,
+      "address": "1188 Armand Dr CA94043",
+      "location": "37.413676777948154, -122.0728040360178",
+      "description": "Unit 7",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "bay area affordable housing",
@@ -92328,9 +92708,13 @@
   {
     "info": {
       "id": "1a2aba23132f",
+      "name": "The Brownstone",
       "city": "Singapore",
       "country": "Singapore",
       "area": 67.98367125761433,
+      "address": "150 Canberra Dr, Singapore 768079",
+      "location": "1.4458763970767297, 103.82717522187883",
+      "description": "Unit 1",
       "bedrooms": 3,
       "bathrooms": 2,
       "database": "Singapore",
@@ -93507,9 +93891,13 @@
   {
     "info": {
       "id": "d6187d89093f",
+      "name": "516 W",
       "city": "Brooklyn",
       "country": "USA",
       "area": 124.50073891950888,
+      "address": "572 Grand St, NY 11211",
+      "location": "40.71116960161662, -73.94902497333617",
+      "description": "Unit 2",
       "bedrooms": 3,
       "bathrooms": 2,
       "database": "NYC",
@@ -95078,9 +95466,13 @@
   {
     "info": {
       "id": "ae16debba3da",
+      "name": "Hope Street",
       "city": "Brooklyn",
       "country": "USA",
       "area": 87.31126151856188,
+      "address": "8 Marcy Ave, NY11211",
+      "location": "40.713681773483636, -73.95484711339975",
+      "description": "Unit 7, 2020",
       "bedrooms": 2,
       "bathrooms": 2,
       "database": "NYC",
@@ -95957,9 +96349,13 @@
   {
     "info": {
       "id": "1ee5e5b3e926",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 63.85372148757044,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 2,
       "bathrooms": 1,
       "database": "default",
@@ -96569,9 +96965,13 @@
   {
     "info": {
       "id": "d8990780d632",
+      "name": "Boerum",
       "city": "Brooklyn",
       "country": "USA",
       "area": 227.06647765315574,
+      "address": "1 Boerum Pl, NY 11201",
+      "location": "40.691714044955916, -73.98877730991805",
+      "description": "na",
       "bedrooms": 4,
       "bathrooms": 5,
       "database": "NYC",
@@ -99039,9 +99439,13 @@
   {
     "info": {
       "id": "3887e1a42185",
+      "name": "Riviere",
       "city": "Singapore",
       "country": "Singapore",
       "area": 76.22722048662399,
+      "address": "3 Jiak Kim St, #1, Singapore 169423",
+      "location": "1.2917511894850695, 103.83488711735906",
+      "description": "na",
       "bedrooms": 3,
       "bathrooms": 3,
       "database": "Singapore",
@@ -100659,9 +101063,13 @@
   {
     "info": {
       "id": "f0f816aaae68",
+      "name": "Sango Court",
       "city": "Milpitas",
       "country": "USA",
       "area": 103.56621703679411,
+      "address": "355 Sango Ct CA95035",
+      "location": "37.40722498001695, -121.89323107073375",
+      "description": "Left Unit 5",
       "bedrooms": 2,
       "bathrooms": 1,
       "database": "bay area affordable housing",
@@ -101330,9 +101738,13 @@
   {
     "info": {
       "id": "94e75f1cb06c",
+      "name": "Mon Jervois",
       "city": "Singapore",
       "country": "Singapore",
       "area": 67.046468516608,
+      "address": "39 Jervois Rd, Singapore 249095",
+      "location": "1.294099631726711, 103.82236820351714",
+      "description": "na",
       "bedrooms": 2,
       "bathrooms": 2,
       "database": "Singapore",
@@ -102221,9 +102633,13 @@
   {
     "info": {
       "id": "086d1321c241",
+      "name": "Hope Street",
       "city": "Brooklyn",
       "country": "USA",
       "area": 55.07282611696246,
+      "address": "8 Marcy Ave, NY11211",
+      "location": "40.713681773483636, -73.95484711339975",
+      "description": "Unit 3, 2020",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "NYC",
@@ -102893,9 +103309,13 @@
   {
     "info": {
       "id": "1d13418c8ed0",
+      "name": "Tampines Green Jade HDB",
       "city": "Singapore",
       "country": "Singapore",
       "area": 131.78102282334658,
+      "address": "956A Tampines St. 96, Singapore 521956",
+      "location": "1.3418104198447176, 103.93509666751798",
+      "description": "Unit 15",
       "bedrooms": 3,
       "bathrooms": 4,
       "database": "Singapore",
@@ -104994,9 +105414,13 @@
   {
     "info": {
       "id": "c28fb327b082",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 81.52867786599916,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 2,
       "bathrooms": 2,
       "database": "default",
@@ -105730,9 +106154,13 @@
   {
     "info": {
       "id": "2754ae8fe4e8",
+      "name": "Escher Terraces",
       "city": "Zurich",
       "country": "Switzerland",
       "area": 130.26505589632143,
+      "address": "Am Wasser 10, 8600 D\u00fcbendorf, Switzerland",
+      "location": "47.40339622285793, 8.604245692901165",
+      "description": "SchneiderStuderPrimas 2015",
       "bedrooms": 2,
       "bathrooms": 2,
       "database": "Zurich",
@@ -106842,9 +107270,13 @@
   {
     "info": {
       "id": "0cdea0600bc9",
+      "name": "Tampines Green Jade HDB",
       "city": "Singapore",
       "country": "Singapore",
       "area": 97.23860354745557,
+      "address": "956A Tampines St. 96, Singapore 521956",
+      "location": "1.3418104198447176, 103.93509666751798",
+      "description": "Unit 1",
       "bedrooms": 3,
       "bathrooms": 2,
       "database": "Singapore",
@@ -108277,9 +108709,13 @@
   {
     "info": {
       "id": "16f4803185ad",
+      "name": "Martin Modern",
       "city": "Singapore",
       "country": "Singapore",
       "area": 111.73925373215752,
+      "address": "8 Martin Pl, Singapore 237992",
+      "location": "1.2929748455973629, 103.83805960629637",
+      "description": "na2",
       "bedrooms": 2,
       "bathrooms": 2,
       "database": "Singapore",
@@ -109290,9 +109726,13 @@
   {
     "info": {
       "id": "c3fde30b9974",
+      "name": "324 E",
       "city": "New York",
       "country": "USA",
       "area": 141.32718267693417,
+      "address": "324 E 90th St NY 10128",
+      "location": "40.77976486001059, -73.94862833041401",
+      "description": "Unit 1E",
       "bedrooms": 3,
       "bathrooms": 1,
       "database": "NYC",
@@ -110513,9 +110953,13 @@
   {
     "info": {
       "id": "719d8743ebbf",
+      "name": "Tampines Green Jade HDB",
       "city": "Singapore",
       "country": "Singapore",
       "area": 180.83134455996333,
+      "address": "956A Tampines St. 96, Singapore 521956",
+      "location": "1.3418104198447176, 103.93509666751798",
+      "description": "Unit 21",
       "bedrooms": 3,
       "bathrooms": 2,
       "database": "Singapore",
@@ -111566,9 +112010,13 @@
   {
     "info": {
       "id": "0afcdcb89318",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 70.63255285633488,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 2,
       "bathrooms": 1,
       "database": "default",
@@ -112698,9 +113146,13 @@
   {
     "info": {
       "id": "6e5e5c42e541",
+      "name": "150 E",
       "city": "New York",
       "country": "USA",
       "area": 98.49615623054706,
+      "address": "160 E 48th St NY 10017",
+      "location": "40.75444525119713, -73.97220579226824",
+      "description": "Unit 6B",
       "bedrooms": 3,
       "bathrooms": 2,
       "database": "NYC",
@@ -113883,9 +114335,13 @@
   {
     "info": {
       "id": "1ca849cab9a9",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 44.58365157789704,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 2,
       "bathrooms": 1,
       "database": "default",
@@ -114752,9 +115208,13 @@
   {
     "info": {
       "id": "2b8aa75e2017",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 58.93619795095442,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 2,
       "bathrooms": 1,
       "database": "default",
@@ -115574,9 +116034,13 @@
   {
     "info": {
       "id": "926f530fb16b",
+      "name": "Edwin M. Lee Apartments",
       "city": "San Francisco",
       "country": "USA",
       "area": 39.18868424616812,
+      "address": "1150 3rd St CA 94158",
+      "location": "37.773303569885115, -122.39002774862479",
+      "description": "Unit 7",
       "bedrooms": 0,
       "bathrooms": 1,
       "database": "bay area affordable housing",
@@ -116305,9 +116769,13 @@
   {
     "info": {
       "id": "3b99a862eba8",
+      "name": "Bishan Ridges HDB",
       "city": "Singapore",
       "country": "Singapore",
       "area": 36.5515179828908,
+      "address": "532A Bishan St 14, Singapore 572532",
+      "location": "1.353269741462865, 103.85274992952006",
+      "description": "Unit 3",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "Singapore",
@@ -117109,9 +117577,13 @@
   {
     "info": {
       "id": "02a69ec9816a",
+      "name": "Delmas Park",
       "city": "San Jose",
       "country": "USA",
       "area": 57.421764771512244,
+      "address": "350 Barack Obama Blvd CA 95126",
+      "location": "37.32444331665218, -121.89993925627509",
+      "description": "Unit 3",
       "bedrooms": 2,
       "bathrooms": 1,
       "database": "bay area affordable housing",
@@ -117999,9 +118471,13 @@
   {
     "info": {
       "id": "10210bf7b3b4",
+      "name": "Kalkbreite",
       "city": "Zurich",
       "country": "Switzerland",
       "area": 71.12165493069915,
+      "address": "Kalkbreitestrasse 6, CH-8003",
+      "location": "47.37437299691268, 8.520372810133646",
+      "description": "Mueller Sigrist 2014",
       "bedrooms": 2,
       "bathrooms": 1,
       "database": "Zurich",
@@ -118616,9 +119092,13 @@
   {
     "info": {
       "id": "d9cfd5ccbe9e",
+      "name": "Windsor",
       "city": "Brooklyn",
       "country": "USA",
       "area": 110.08227371227986,
+      "address": "310 Windsor Pl, NY 11218",
+      "location": "40.65647091944207, -73.97436427719084",
+      "description": "Unit 1",
       "bedrooms": 3,
       "bathrooms": 1,
       "database": "NYC",
@@ -120334,9 +120814,13 @@
   {
     "info": {
       "id": "3a3929f82e1d",
+      "name": "na",
       "city": "Zurich",
       "country": "Switzerland",
       "area": 136.28151601034915,
+      "address": "na",
+      "location": "47.37987291430379, 8.511064370136864",
+      "description": "Hardau Nigel",
       "bedrooms": 3,
       "bathrooms": 2,
       "database": "Zurich",
@@ -121451,9 +121935,13 @@
   {
     "info": {
       "id": "656f385844f0",
+      "name": "Bartley Beacon HDB",
       "city": "Singapore",
       "country": "Singapore",
       "area": 90.77660475421271,
+      "address": "223A Mount Vernon Rd, Singapore",
+      "location": "1.3420330921201462, 103.8795973695313",
+      "description": "Unit 3",
       "bedrooms": 3,
       "bathrooms": 2,
       "database": "Singapore",
@@ -122721,9 +123209,13 @@
   {
     "info": {
       "id": "38f84d7accfb",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 51.45785840620022,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "default",
@@ -123309,9 +123801,13 @@
   {
     "info": {
       "id": "47c6711270e8",
+      "name": "Eunos Court HDB",
       "city": "Singapore",
       "country": "Singapore",
       "area": 92.36872363652401,
+      "address": "38A Eunos Rd 2, Singapore 401038",
+      "location": "1.3214423125745771, 103.90000409531972",
+      "description": "Unit E",
       "bedrooms": 3,
       "bathrooms": 2,
       "database": "Singapore",
@@ -124355,9 +124851,13 @@
   {
     "info": {
       "id": "ae23f96feddb",
+      "name": "Kalkbreite",
       "city": "Zurich",
       "country": "Switzerland",
       "area": 139.83554419357097,
+      "address": "Kalkbreitestrasse 6, CH-8003",
+      "location": "47.37437299691268, 8.520372810133646",
+      "description": "Mueller Sigrist 2014",
       "bedrooms": 4,
       "bathrooms": 3,
       "database": "Zurich",
@@ -125455,9 +125955,13 @@
   {
     "info": {
       "id": "6a66c596106d",
+      "name": "na",
       "city": "Zurich",
       "country": "Switzerland",
       "area": 96.5692096525454,
+      "address": "na",
+      "location": "47.37987291430379, 8.511064370136864",
+      "description": "Competition Goldacker Kontinuum",
       "bedrooms": 2,
       "bathrooms": 1,
       "database": "Zurich",
@@ -126198,9 +126702,13 @@
   {
     "info": {
       "id": "8e455312e2f4",
+      "name": "Linden",
       "city": "Brooklyn",
       "country": "USA",
       "area": 90.98700960815586,
+      "address": "247 Linden Blvd NY11226",
+      "location": "40.652925524480146, -73.94997893307018",
+      "description": "Unit 1",
       "bedrooms": 4,
       "bathrooms": 2,
       "database": "NYC",
@@ -127431,9 +127939,13 @@
   {
     "info": {
       "id": "6c468fc447be",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 78.40629140379684,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 3,
       "bathrooms": 2,
       "database": "default",
@@ -128614,9 +129126,13 @@
   {
     "info": {
       "id": "00a4634262aa",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 44.19514259200177,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "default",
@@ -129202,9 +129718,13 @@
   {
     "info": {
       "id": "f07994647932",
+      "name": "Escher Terraces",
       "city": "Zurich",
       "country": "Switzerland",
       "area": 97.4235493321321,
+      "address": "Am Wasser 10, 8600 D\u00fcbendorf, Switzerland",
+      "location": "47.40339622285793, 8.604245692901165",
+      "description": "SchneiderStuderPrimas 2015",
       "bedrooms": 2,
       "bathrooms": 1,
       "database": "Zurich",
@@ -129994,9 +130514,13 @@
   {
     "info": {
       "id": "283ba3c45644",
+      "name": "Delmas Park",
       "city": "San Jose",
       "country": "USA",
       "area": 65.13342831475893,
+      "address": "350 Barack Obama Blvd CA 95126",
+      "location": "37.32444331665218, -121.89993925627509",
+      "description": "Unit 1",
       "bedrooms": 2,
       "bathrooms": 1,
       "database": "bay area affordable housing",
@@ -130845,9 +131369,13 @@
   {
     "info": {
       "id": "77a520792959",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 61.87421588596047,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "default",
@@ -131931,9 +132459,13 @@
   {
     "info": {
       "id": "be2681c563f2",
+      "name": "Eunos Court HDB",
       "city": "Singapore",
       "country": "Singapore",
       "area": 83.14458270569958,
+      "address": "38A Eunos Rd 2, Singapore 401038",
+      "location": "1.3214423125745771, 103.90000409531972",
+      "description": "Unit M",
       "bedrooms": 3,
       "bathrooms": 2,
       "database": "Singapore",
@@ -133403,9 +133935,13 @@
   {
     "info": {
       "id": "c91d68c9e709",
+      "name": "522 W 161 W",
       "city": "New York",
       "country": "USA",
       "area": 58.2168994264066,
+      "address": "522 W 161st St NY 10032",
+      "location": "40.83578591634603, -73.94161256840744",
+      "description": "Unit 21",
       "bedrooms": 3,
       "bathrooms": 1,
       "database": "NYC",
@@ -134226,9 +134762,13 @@
   {
     "info": {
       "id": "665bb962452c",
+      "name": "Hegianwanderweg",
       "city": "Zurich",
       "country": "Switzerland",
       "area": 104.40833249687421,
+      "address": "na",
+      "location": "47.37437299691268, 8.520372810133646",
+      "description": "EM2N 2003 - Hegianwanderweg Residential",
       "bedrooms": 2,
       "bathrooms": 2,
       "database": "Zurich",
@@ -135251,9 +135791,13 @@
   {
     "info": {
       "id": "c80646b3a005",
+      "name": "Matara",
       "city": "Zurich",
       "country": "Switzerland",
       "area": 79.199154479953,
+      "address": "na",
+      "location": "47.389741586966366, 8.493961275555224",
+      "description": "Matara",
       "bedrooms": 2,
       "bathrooms": 1,
       "database": "Zurich",
@@ -136271,9 +136815,13 @@
   {
     "info": {
       "id": "c854fff2fdef",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 55.465891203475124,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "default",
@@ -137102,9 +137650,13 @@
   {
     "info": {
       "id": "56f6d64cc0ea",
+      "name": "433",
       "city": "Brooklyn",
       "country": "USA",
       "area": 125.71262601130002,
+      "address": "433 3rd Ave, NY 11215",
+      "location": "40.67230243213808, -73.99017745390461",
+      "description": "Unit 2",
       "bedrooms": 3,
       "bathrooms": 1,
       "database": "NYC",
@@ -138550,9 +139102,13 @@
   {
     "info": {
       "id": "edf518400ac4",
+      "name": "145 E",
       "city": "New York",
       "country": "USA",
       "area": 142.68532264589885,
+      "address": "145 E 74th St NY 10021",
+      "location": "40.771849580032445, -73.96097717302663",
+      "description": "Unit 6C",
       "bedrooms": 3,
       "bathrooms": 2,
       "database": "NYC",
@@ -140245,9 +140801,13 @@
   {
     "info": {
       "id": "199bba6c9c6b",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 55.720620096540955,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "default",
@@ -140823,9 +141383,13 @@
   {
     "info": {
       "id": "dacd59f64f10",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 57.65116600426156,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "default",
@@ -141825,9 +142389,13 @@
   {
     "info": {
       "id": "831ea47891e7",
+      "name": "Carlton",
       "city": "Brooklyn",
       "country": "USA",
       "area": 44.05818185622593,
+      "address": "535 Carlton Ave NY11238",
+      "location": "40.681192441973316, -73.9707676643865",
+      "description": "Unit 2, 2020",
       "bedrooms": 0,
       "bathrooms": 1,
       "database": "NYC",
@@ -142409,9 +142977,13 @@
   {
     "info": {
       "id": "1f4e988be0f8",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 44.44987376840547,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "default",
@@ -142791,9 +143363,13 @@
   {
     "info": {
       "id": "c9d082fe8976",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 44.22198422298904,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 0,
       "bathrooms": 1,
       "database": "default",
@@ -143460,9 +144036,13 @@
   {
     "info": {
       "id": "69f1b71c8d27",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 21.23030870029337,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "default",
@@ -144034,9 +144614,13 @@
   {
     "info": {
       "id": "45cc45ca5871",
+      "name": "Kalkbreite",
       "city": "Zurich",
       "country": "Switzerland",
       "area": 44.10756992061215,
+      "address": "Kalkbreitestrasse 6, CH-8003",
+      "location": "47.37437299691268, 8.520372810133646",
+      "description": "Mueller Sigrist 2014",
       "bedrooms": 0,
       "bathrooms": 1,
       "database": "Zurich",
@@ -144421,9 +145005,13 @@
   {
     "info": {
       "id": "04eb5eb75a1e",
+      "name": "Matara",
       "city": "Zurich",
       "country": "Switzerland",
       "area": 88.87792505911784,
+      "address": "na",
+      "location": "47.389741586966366, 8.493961275555224",
+      "description": "Matara",
       "bedrooms": 2,
       "bathrooms": 1,
       "database": "Zurich",
@@ -145292,9 +145880,13 @@
   {
     "info": {
       "id": "03b9b348bbab",
+      "name": "Kelantan",
       "city": "Singapore",
       "country": "Singapore",
       "area": 29.26971571838294,
+      "address": "33 Kelantan Ln, Singapore",
+      "location": "1.3067529535628097, 103.85681442374425",
+      "description": "na",
       "bedrooms": 0,
       "bathrooms": 1,
       "database": "Singapore",
@@ -145971,9 +146563,13 @@
   {
     "info": {
       "id": "2d775d16b99a",
+      "name": "Edwin M. Lee Apartments",
       "city": "San Francisco",
       "country": "USA",
       "area": 52.133345302107045,
+      "address": "1150 3rd St CA 94158",
+      "location": "37.773303569885115, -122.39002774862479",
+      "description": "Unit 3",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "bay area affordable housing",
@@ -146663,9 +147259,13 @@
   {
     "info": {
       "id": "74bc3ce1354b",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 46.35231786910244,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "default",
@@ -147437,9 +148037,13 @@
   {
     "info": {
       "id": "379a8bac036a",
+      "name": "na",
       "city": "Zurich",
       "country": "Switzerland",
       "area": 52.07748537306907,
+      "address": "na",
+      "location": "47.40339622285793, 8.604245692901165",
+      "description": "DeBeer 2023 - HeidiAbel",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "Zurich",
@@ -148172,9 +148776,13 @@
   {
     "info": {
       "id": "7e3b64ba50fb",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 113.53931177429442,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 2,
       "bathrooms": 0,
       "database": "default",
@@ -148920,9 +149528,13 @@
   {
     "info": {
       "id": "3834a00f695d",
+      "name": "Coliseum Place",
       "city": "Oakland",
       "country": "USA",
       "area": 55.629793649139174,
+      "address": "805 71st Ave CA94621",
+      "location": "37.75562225033517, -122.19520054974079",
+      "description": "Unit 3",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "bay area affordable housing",
@@ -149494,9 +150106,13 @@
   {
     "info": {
       "id": "d5c9cf81a650",
+      "name": "Kalkbreite",
       "city": "Zurich",
       "country": "Switzerland",
       "area": 67.54693812371988,
+      "address": "Kalkbreitestrasse 6, CH-8003",
+      "location": "47.37437299691268, 8.520372810133646",
+      "description": "Mueller Sigrist 2014",
       "bedrooms": 2,
       "bathrooms": 1,
       "database": "Zurich",
@@ -150202,9 +150818,13 @@
   {
     "info": {
       "id": "343a3dfe8bf7",
+      "name": "Kalkbreite",
       "city": "Zurich",
       "country": "Switzerland",
       "area": 46.19050702289678,
+      "address": "Kalkbreitestrasse 6, CH-8003",
+      "location": "47.37437299691268, 8.520372810133646",
+      "description": "Mueller Sigrist 2014",
       "bedrooms": 0,
       "bathrooms": 1,
       "database": "Zurich",
@@ -150679,9 +151299,13 @@
   {
     "info": {
       "id": "1073f48b968a",
+      "name": "Kalkbreite",
       "city": "Zurich",
       "country": "Switzerland",
       "area": 54.525851943180896,
+      "address": "Kalkbreitestrasse 6, CH-8003",
+      "location": "47.37437299691268, 8.520372810133646",
+      "description": "Mueller Sigrist 2014",
       "bedrooms": 0,
       "bathrooms": 1,
       "database": "Zurich",
@@ -151071,9 +151695,13 @@
   {
     "info": {
       "id": "2328cb8dcb91",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 135.72168591101234,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "default",
@@ -151680,9 +152308,13 @@
   {
     "info": {
       "id": "5b2e997a7a7d",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 96.8613632318486,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 2,
       "bathrooms": 1,
       "database": "default",
@@ -153259,9 +153891,13 @@
   {
     "info": {
       "id": "3febd59224c6",
+      "name": "Edwin M. Lee Apartments",
       "city": "San Francisco",
       "country": "USA",
       "area": 45.77552515006391,
+      "address": "1150 3rd St CA 94158",
+      "location": "37.773303569885115, -122.39002774862479",
+      "description": "Unit 1",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "bay area affordable housing",
@@ -154046,9 +154682,13 @@
   {
     "info": {
       "id": "ce6e9a732732",
+      "name": "Midway Village",
       "city": "Daly City",
       "country": "USA",
       "area": 84.48056630081919,
+      "address": "8 Partridge Street CA94014",
+      "location": "37.86973578557513, -122.25656720172009",
+      "description": "Unit 5",
       "bedrooms": 4,
       "bathrooms": 2,
       "database": "bay area affordable housing",
@@ -155417,9 +156057,13 @@
   {
     "info": {
       "id": "0532c6988092",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 151.95132502835503,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 2,
       "bathrooms": 2,
       "database": "default",
@@ -156929,9 +157573,13 @@
   {
     "info": {
       "id": "12dce4883440",
+      "name": "na",
       "city": "Zurich",
       "country": "Switzerland",
       "area": 71.06423785252264,
+      "address": "na",
+      "location": "47.40339622285793, 8.604245692901165",
+      "description": "Esch Sintzel 2011 - Kuppe Housing Estate",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "Zurich",
@@ -157528,9 +158176,13 @@
   {
     "info": {
       "id": "9bd882fde877",
+      "name": "na",
       "city": "Zurich",
       "country": "Switzerland",
       "area": 70.99808684218442,
+      "address": "na",
+      "location": "47.40339622285793, 8.604245692901165",
+      "description": "DeBeer 2023 - HeidiAbel",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "Zurich",
@@ -158360,9 +159012,13 @@
   {
     "info": {
       "id": "b9a4ae167887",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 74.30657594475655,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 2,
       "bathrooms": 1,
       "database": "default",
@@ -159173,9 +159829,13 @@
   {
     "info": {
       "id": "4c640abf1a74",
+      "name": "525",
       "city": "Brooklyn",
       "country": "USA",
       "area": 112.36281027941732,
+      "address": "525 10th St, NY 11215",
+      "location": "40.666785582163186, -73.98201633845161",
+      "description": "Unit 2",
       "bedrooms": 3,
       "bathrooms": 2,
       "database": "NYC",
@@ -160929,9 +161589,13 @@
   {
     "info": {
       "id": "209c3680aaa8",
+      "name": "na",
       "city": "Zurich",
       "country": "Switzerland",
       "area": 58.08235887956107,
+      "address": "na",
+      "location": "47.37987291430379, 8.511064370136864",
+      "description": "Competition Goldacker Goldstueck",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "Zurich",
@@ -161650,9 +162314,13 @@
   {
     "info": {
       "id": "e72c2fba40c7",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 58.66231199410287,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "default",
@@ -162313,9 +162981,13 @@
   {
     "info": {
       "id": "2d775d16b99a",
+      "name": "Edwin M. Lee Apartments",
       "city": "San Francisco",
       "country": "USA",
       "area": 52.133345302107045,
+      "address": "1150 3rd St CA 94158",
+      "location": "37.773303569885115, -122.39002774862479",
+      "description": "Unit 3",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "bay area affordable housing",
@@ -163005,9 +163677,13 @@
   {
     "info": {
       "id": "f94a6287072b",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 48.72788606234007,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 2,
       "bathrooms": 1,
       "database": "default",
@@ -163938,9 +164614,13 @@
   {
     "info": {
       "id": "a5bd52c74764",
+      "name": "Delmas Park",
       "city": "San Jose",
       "country": "USA",
       "area": 59.25329330936074,
+      "address": "350 Barack Obama Blvd CA 95126",
+      "location": "37.32444331665218, -121.89993925627509",
+      "description": "Unit 4",
       "bedrooms": 2,
       "bathrooms": 1,
       "database": "bay area affordable housing",
@@ -164864,9 +165544,13 @@
   {
     "info": {
       "id": "8e27776af9a3",
+      "name": "Kalkbreite",
       "city": "Zurich",
       "country": "Switzerland",
       "area": 110.53502634496544,
+      "address": "Kalkbreitestrasse 6, CH-8003",
+      "location": "47.37437299691268, 8.520372810133646",
+      "description": "Mueller Sigrist 2014",
       "bedrooms": 3,
       "bathrooms": 1,
       "database": "Zurich",
@@ -165657,9 +166341,13 @@
   {
     "info": {
       "id": "10aa8ccc8190",
+      "name": "Kalkbreite",
       "city": "Zurich",
       "country": "Switzerland",
       "area": 190.79184643600456,
+      "address": "Kalkbreitestrasse 6, CH-8003",
+      "location": "47.37437299691268, 8.520372810133646",
+      "description": "Mueller Sigrist 2014",
       "bedrooms": 4,
       "bathrooms": 3,
       "database": "Zurich",
@@ -167184,9 +167872,13 @@
   {
     "info": {
       "id": "512b31f2b6cd",
+      "name": "516 W",
       "city": "Brooklyn",
       "country": "USA",
       "area": 162.8062781977933,
+      "address": "533 Pacific St, NY 11217",
+      "location": "40.68457588647836, -73.98010574339625",
+      "description": "Unit 9B",
       "bedrooms": 3,
       "bathrooms": 3,
       "database": "NYC",
@@ -169397,9 +170089,13 @@
   {
     "info": {
       "id": "95e28510bea8",
+      "name": "Grammercy",
       "city": "New York",
       "country": "USA",
       "area": 67.19358799259498,
+      "address": "2 Lexington Ave NY10010",
+      "location": "40.725841483512085, -73.9998108026952",
+      "description": "Unit 14, 1990",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "NYC",
@@ -170078,9 +170774,13 @@
   {
     "info": {
       "id": "9ae0d35cd513",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 47.1188569437574,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "default",
@@ -171198,9 +171898,13 @@
   {
     "info": {
       "id": "934545b4d6a1",
+      "name": "OUE Twon Peaks",
       "city": "Singapore",
       "country": "Singapore",
       "area": 69.79044255251938,
+      "address": "33 Leonie Hill Rd, Singapore 239197",
+      "location": "1.299593553018859, 103.83321811281066",
+      "description": "na",
       "bedrooms": 2,
       "bathrooms": 2,
       "database": "Singapore",
@@ -172397,9 +173101,13 @@
   {
     "info": {
       "id": "a8cfb3d96398",
+      "name": "Bishan Ridges HDB",
       "city": "Singapore",
       "country": "Singapore",
       "area": 45.892933731429366,
+      "address": "532A Bishan St 14, Singapore 572532",
+      "location": "1.353269741462865, 103.85274992952006",
+      "description": "Unit 4",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "Singapore",
@@ -173216,9 +173924,13 @@
   {
     "info": {
       "id": "03c22adfb486",
+      "name": "Grammercy",
       "city": "New York",
       "country": "USA",
       "area": 59.208335550909396,
+      "address": "2 Lexington Ave NY10010",
+      "location": "40.725841483512085, -73.9998108026952",
+      "description": "Unit 18, 1990",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "NYC",
@@ -174002,9 +174714,13 @@
   {
     "info": {
       "id": "877e35cfe92a",
+      "name": "Grammercy Park",
       "city": "New York",
       "country": "USA",
       "area": 202.24617451518134,
+      "address": "121 E 22nd St,  NY 10010",
+      "location": "40.739389817012515, -73.9853542715238",
+      "description": "Unit 1703",
       "bedrooms": 3,
       "bathrooms": 3,
       "database": "NYC",
@@ -175432,9 +176148,13 @@
   {
     "info": {
       "id": "3ea1aa185ef1",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 86.25978792497514,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 2,
       "bathrooms": 1,
       "database": "default",
@@ -176473,9 +177193,13 @@
   {
     "info": {
       "id": "fd606629da9d",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 32.29643178394838,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 2,
       "bathrooms": 1,
       "database": "default",
@@ -177192,9 +177916,13 @@
   {
     "info": {
       "id": "45531e36b120",
+      "name": "505 W",
       "city": "New York",
       "country": "USA",
       "area": 112.89091300159635,
+      "address": "505 W 43rd St, NY 10036",
+      "location": "40.76095694445055, -73.99548158636173",
+      "description": "Unit 9J",
       "bedrooms": 3,
       "bathrooms": 3,
       "database": "NYC",
@@ -178735,9 +179463,13 @@
   {
     "info": {
       "id": "5ac4b782aef2",
+      "name": "na",
       "city": "Zurich",
       "country": "Switzerland",
       "area": 59.99072907445952,
+      "address": "na",
+      "location": "47.37987291430379, 8.511064370136864",
+      "description": "Competition Hardau Linard",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "Zurich",
@@ -179445,9 +180177,13 @@
   {
     "info": {
       "id": "6e795ffb1688",
+      "name": "Grammercy",
       "city": "New York",
       "country": "USA",
       "area": 45.408505391622384,
+      "address": "2 Lexington Ave NY10010",
+      "location": "40.725841483512085, -73.9998108026952",
+      "description": "Unit 1, 1990",
       "bedrooms": 0,
       "bathrooms": 1,
       "database": "NYC",
@@ -180017,9 +180753,13 @@
   {
     "info": {
       "id": "197bb73bb469",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 42.26522210266734,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 0,
       "bathrooms": 1,
       "database": "default",
@@ -180883,9 +181623,13 @@
   {
     "info": {
       "id": "602e7c91af5d",
+      "name": "Eunos Court HDB",
       "city": "Singapore",
       "country": "Singapore",
       "area": 63.69515195134227,
+      "address": "38A Eunos Rd 2, Singapore 401038",
+      "location": "1.3214423125745771, 103.90000409531972",
+      "description": "Unit O",
       "bedrooms": 2,
       "bathrooms": 2,
       "database": "Singapore",
@@ -182191,9 +182935,13 @@
   {
     "info": {
       "id": "3551b470a20a",
+      "name": "The Paris New York",
       "city": "New York",
       "country": "USA",
       "area": 144.0899931639833,
+      "address": "752 West End Ave, NY 10025",
+      "location": "40.79551291726682, -73.97254405926041",
+      "description": "Unit 14L",
       "bedrooms": 3,
       "bathrooms": 2,
       "database": "NYC",
@@ -184068,9 +184816,13 @@
   {
     "info": {
       "id": "03f159c8ee4e",
+      "name": "Carlton",
       "city": "New York",
       "country": "USA",
       "area": 195.4585511268558,
+      "address": "160 E 88th St NY 10128",
+      "location": "40.78058496020028, -73.95436428107936",
+      "description": "Unit 2",
       "bedrooms": 4,
       "bathrooms": 4,
       "database": "NYC",
@@ -185734,9 +186486,13 @@
   {
     "info": {
       "id": "9db83e9ccaa7",
+      "name": "na",
       "city": "Zurich",
       "country": "Switzerland",
       "area": 82.05617760829045,
+      "address": "na",
+      "location": "47.40339622285793, 8.604245692901165",
+      "description": "Gigon Guyer 2002 - Brolberg",
       "bedrooms": 2,
       "bathrooms": 2,
       "database": "Zurich",
@@ -186749,9 +187505,13 @@
   {
     "info": {
       "id": "f7e5a5fa2bf6",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 71.1111542507428,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 3,
       "bathrooms": 1,
       "database": "default",
@@ -187690,9 +188450,13 @@
   {
     "info": {
       "id": "1ba06196c6c9",
+      "name": "Ironhorse at Central Station",
       "city": "Oakland",
       "country": "USA",
       "area": 101.11106681769888,
+      "address": "1801 14th St CA 94607",
+      "location": "37.81365051639731, -122.29937772843857",
+      "description": "Unit 7",
       "bedrooms": 2,
       "bathrooms": 1,
       "database": "bay area affordable housing",
@@ -188698,9 +189462,13 @@
   {
     "info": {
       "id": "fd0a9cbe9f1b",
+      "name": "na",
       "city": "Zurich",
       "country": "Switzerland",
       "area": 117.58830919751199,
+      "address": "na",
+      "location": "47.40339622285793, 8.604245692901165",
+      "description": "Gigon Guyer 2002 - Brolberg",
       "bedrooms": 3,
       "bathrooms": 3,
       "database": "Zurich",
@@ -189947,9 +190715,13 @@
   {
     "info": {
       "id": "960c6d9d3022",
+      "name": "444",
       "city": "New York",
       "country": "USA",
       "area": 114.28086244236329,
+      "address": "444 E 82nd St  NY 10028",
+      "location": "40.77337796278627, -73.94975026732148",
+      "description": "Unit 4",
       "bedrooms": 3,
       "bathrooms": 2,
       "database": "NYC",
@@ -191195,9 +191967,13 @@
   {
     "info": {
       "id": "a72c97933d03",
+      "name": "Carlton",
       "city": "Brooklyn",
       "country": "USA",
       "area": 117.8476816397083,
+      "address": "296 Troutman St NY11237",
+      "location": "40.70389307724162, -73.92528375718962",
+      "description": "Unit 1R",
       "bedrooms": 4,
       "bathrooms": 3,
       "database": "NYC",
@@ -192884,9 +193660,13 @@
   {
     "info": {
       "id": "252198ae16b7",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 71.38095470587831,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "default",
@@ -193986,9 +194766,13 @@
   {
     "info": {
       "id": "48edaf7018b5",
+      "name": "Bishan Towers HDB",
       "city": "Singapore",
       "country": "Singapore",
       "area": 37.02877304576168,
+      "address": "156B Bishan St. 13, Singapore 572156",
+      "location": "1.3442737104748188, 103.85676564480067",
+      "description": "Unit 1",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "Singapore",
@@ -194585,9 +195369,13 @@
   {
     "info": {
       "id": "52518d03d7b3",
+      "name": "Bartley Beacon HDB",
       "city": "Singapore",
       "country": "Singapore",
       "area": 90.68025280943846,
+      "address": "223A Mount Vernon Rd, Singapore",
+      "location": "1.3420330921201462, 103.8795973695313",
+      "description": "Unit 5",
       "bedrooms": 3,
       "bathrooms": 2,
       "database": "Singapore",
@@ -195927,9 +196715,13 @@
   {
     "info": {
       "id": "d6257a040d49",
+      "name": "Bowery",
       "city": "New York",
       "country": "USA",
       "area": 97.51368136308156,
+      "address": "352 Bowery NY 10012",
+      "location": "40.72685151407147, -73.99198155630377",
+      "description": "Unit 2",
       "bedrooms": 3,
       "bathrooms": 2,
       "database": "NYC",
@@ -197196,9 +197988,13 @@
   {
     "info": {
       "id": "a9c9484e598d",
+      "name": "Kalkbreite",
       "city": "Zurich",
       "country": "Switzerland",
       "area": 32.94692790726549,
+      "address": "Kalkbreitestrasse 6, CH-8003",
+      "location": "47.37437299691268, 8.520372810133646",
+      "description": "Mueller Sigrist 2014",
       "bedrooms": 0,
       "bathrooms": 1,
       "database": "Zurich",
@@ -197583,9 +198379,13 @@
   {
     "info": {
       "id": "2d25f05bf53a",
+      "name": "na",
       "city": "Zurich",
       "country": "Switzerland",
       "area": 76.85508839739487,
+      "address": "na",
+      "location": "47.37987291430379, 8.511064370136864",
+      "description": "Competition Goldacker Einsalle",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "Zurich",
@@ -198296,9 +199096,13 @@
   {
     "info": {
       "id": "0ad450b3a06e",
+      "name": "San Pablo Senior Housing",
       "city": "Oakland",
       "country": "USA",
       "area": 41.9119190218189,
+      "address": "3135 San Pablo Ave CA94608",
+      "location": "37.8226730600464, -122.27752887207524",
+      "description": "Unit 2",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "bay area affordable housing",
@@ -198871,9 +199675,13 @@
   {
     "info": {
       "id": "d51b6f0bc625",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 53.67284858375271,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 2,
       "bathrooms": 1,
       "database": "default",
@@ -199693,9 +200501,13 @@
   {
     "info": {
       "id": "e2a78357068e",
+      "name": "Carlton",
       "city": "Brooklyn",
       "country": "USA",
       "area": 67.65645535067961,
+      "address": "535 Carlton Ave NY11238",
+      "location": "40.681192441973316, -73.9707676643865",
+      "description": "Unit 10, 2020",
       "bedrooms": 2,
       "bathrooms": 2,
       "database": "NYC",
@@ -200596,9 +201408,13 @@
   {
     "info": {
       "id": "c1ac5344b0bf",
+      "name": "Edwin M. Lee Apartments",
       "city": "San Francisco",
       "country": "USA",
       "area": 49.3941487687116,
+      "address": "1150 3rd St CA 94158",
+      "location": "37.773303569885115, -122.39002774862479",
+      "description": "Unit 6",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "bay area affordable housing",
@@ -201462,9 +202278,13 @@
   {
     "info": {
       "id": "098a4d98612c",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 32.30706591578742,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "default",
@@ -202163,9 +202983,13 @@
   {
     "info": {
       "id": "701ee4f77f76",
+      "name": "Bishan Towers HDB",
       "city": "Singapore",
       "country": "Singapore",
       "area": 89.28536797948118,
+      "address": "156B Bishan St. 13, Singapore 572156",
+      "location": "1.3442737104748188, 103.85676564480067",
+      "description": "Unit 1",
       "bedrooms": 3,
       "bathrooms": 2,
       "database": "Singapore",
@@ -203495,9 +204319,13 @@
   {
     "info": {
       "id": "84da6cb75723",
+      "name": "Carlton",
       "city": "Brooklyn",
       "country": "USA",
       "area": 61.697079876004864,
+      "address": "535 Carlton Ave NY11238",
+      "location": "40.681192441973316, -73.9707676643865",
+      "description": "Unit 11, 2020",
       "bedrooms": 2,
       "bathrooms": 2,
       "database": "NYC",
@@ -204473,9 +205301,13 @@
   {
     "info": {
       "id": "5a55bc4db391",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 53.269697346084776,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 0,
       "bathrooms": 1,
       "database": "default",
@@ -205043,9 +205875,13 @@
   {
     "info": {
       "id": "550e4187485f",
+      "name": "Hegianwanderweg",
       "city": "Zurich",
       "country": "Switzerland",
       "area": 106.6281288128448,
+      "address": "na",
+      "location": "47.37437299691268, 8.520372810133646",
+      "description": "EM2N 2003 - Hegianwanderweg Residential",
       "bedrooms": 1,
       "bathrooms": 2,
       "database": "Zurich",
@@ -205970,9 +206806,13 @@
   {
     "info": {
       "id": "e957db9bc00b",
+      "name": "Hegianwanderweg",
       "city": "Zurich",
       "country": "Switzerland",
       "area": 74.33192169515132,
+      "address": "na",
+      "location": "47.37437299691268, 8.520372810133646",
+      "description": "EM2N 2003 - Hegianwanderweg Residential",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "Zurich",
@@ -206788,9 +207628,13 @@
   {
     "info": {
       "id": "c794d264aa04",
+      "name": "266 E",
       "city": "New York",
       "country": "USA",
       "area": 109.4124909415259,
+      "address": "266 E Broadway, NY 10002",
+      "location": "40.71497124903645, -73.98510466040418",
+      "description": "Unit 1406",
       "bedrooms": 3,
       "bathrooms": 2,
       "database": "NYC",
@@ -208198,9 +209042,13 @@
   {
     "info": {
       "id": "cc063eb828e3",
+      "name": "Kalkbreite",
       "city": "Zurich",
       "country": "Switzerland",
       "area": 32.73495702451328,
+      "address": "Kalkbreitestrasse 6, CH-8003",
+      "location": "47.37437299691268, 8.520372810133646",
+      "description": "Mueller Sigrist 2014",
       "bedrooms": 0,
       "bathrooms": 1,
       "database": "Zurich",
@@ -208690,9 +209538,13 @@
   {
     "info": {
       "id": "842221f691d3",
+      "name": "San Pablo Senior Housing",
       "city": "Oakland",
       "country": "USA",
       "area": 49.868252269370714,
+      "address": "3135 San Pablo Ave CA94608",
+      "location": "37.8226730600464, -122.27752887207524",
+      "description": "Unit 1",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "bay area affordable housing",
@@ -209375,9 +210227,13 @@
   {
     "info": {
       "id": "c8ac9594ae42",
+      "name": "Tampines Green Jade HDB",
       "city": "Singapore",
       "country": "Singapore",
       "area": 139.65737206280028,
+      "address": "956A Tampines St. 96, Singapore 521956",
+      "location": "1.3418104198447176, 103.93509666751798",
+      "description": "Unit 19",
       "bedrooms": 3,
       "bathrooms": 2,
       "database": "Singapore",
@@ -210823,9 +211679,13 @@
   {
     "info": {
       "id": "21e0a431e3e8",
+      "name": "Kalkbreite",
       "city": "Zurich",
       "country": "Switzerland",
       "area": 130.81237390870228,
+      "address": "Kalkbreitestrasse 6, CH-8003",
+      "location": "47.37437299691268, 8.520372810133646",
+      "description": "Mueller Sigrist 2014",
       "bedrooms": 3,
       "bathrooms": 2,
       "database": "Zurich",
@@ -212000,9 +212860,13 @@
   {
     "info": {
       "id": "edb212bdb79d",
+      "name": "Alkaff Breeze HDB",
       "city": "Singapore",
       "country": "Singapore",
       "area": 90.41683831509545,
+      "address": "119A Alkaff Cres, Singapore 341119",
+      "location": "1.336546923676854, 103.87422121982966",
+      "description": "Unit 1",
       "bedrooms": 3,
       "bathrooms": 2,
       "database": "Singapore",
@@ -213293,9 +214157,13 @@
   {
     "info": {
       "id": "e7484f213797",
+      "name": "Alkaff Breeze HDB",
       "city": "Singapore",
       "country": "Singapore",
       "area": 109.2468955560862,
+      "address": "119A Alkaff Cres, Singapore 341119",
+      "location": "1.336546923676854, 103.87422121982966",
+      "description": "Unit 2",
       "bedrooms": 3,
       "bathrooms": 2,
       "database": "Singapore",
@@ -214628,9 +215496,13 @@
   {
     "info": {
       "id": "31c38aa2f45f",
+      "name": "Escher Terraces",
       "city": "Zurich",
       "country": "Switzerland",
       "area": 114.8079276367207,
+      "address": "Am Wasser 10, 8600 D\u00fcbendorf, Switzerland",
+      "location": "47.40339622285793, 8.604245692901165",
+      "description": "SchneiderStuderPrimas 2015",
       "bedrooms": 3,
       "bathrooms": 2,
       "database": "Zurich",
@@ -215653,9 +216525,13 @@
   {
     "info": {
       "id": "cbe4a4558aa6",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 29.8100736589237,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "default",
@@ -216232,9 +217108,13 @@
   {
     "info": {
       "id": "80a9ff52f66e",
+      "name": "circuit telok",
       "city": "Singapore",
       "country": "Singapore",
       "area": 39.761043803795474,
+      "address": "38A Eunos Rd 2, Singapore 401038",
+      "location": "1.3214423125745771, 103.90000409531972",
+      "description": "na",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "Singapore",
@@ -216726,9 +217606,13 @@
   {
     "info": {
       "id": "57e2c0ceda67",
+      "name": "Carlton",
       "city": "Brooklyn",
       "country": "USA",
       "area": 58.24116349668657,
+      "address": "535 Carlton Ave NY11238",
+      "location": "40.681192441973316, -73.9707676643865",
+      "description": "Unit 7, 2020",
       "bedrooms": 2,
       "bathrooms": 1,
       "database": "NYC",
@@ -217637,9 +218521,13 @@
   {
     "info": {
       "id": "7ea083ceae92",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 39.34292475600113,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 0,
       "bathrooms": 1,
       "database": "default",
@@ -218524,9 +219412,13 @@
   {
     "info": {
       "id": "0b58317956ab",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 120.55699925813622,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 0,
       "bathrooms": 0,
       "database": "default",
@@ -219266,9 +220158,13 @@
   {
     "info": {
       "id": "4eb7be231902",
+      "name": "Tampines Green Jade HDB",
       "city": "Singapore",
       "country": "Singapore",
       "area": 106.11991481488076,
+      "address": "956A Tampines St. 96, Singapore 521956",
+      "location": "1.3418104198447176, 103.93509666751798",
+      "description": "Unit 11",
       "bedrooms": 3,
       "bathrooms": 2,
       "database": "Singapore",
@@ -220543,9 +221439,13 @@
   {
     "info": {
       "id": "ddd21766f1f4",
+      "name": "Grammercy",
       "city": "New York",
       "country": "USA",
       "area": 98.78030353472423,
+      "address": "2 Lexington Ave NY10010",
+      "location": "40.725841483512085, -73.9998108026952",
+      "description": "Unit 10, 1990",
       "bedrooms": 2,
       "bathrooms": 2,
       "database": "NYC",
@@ -222002,9 +222902,13 @@
   {
     "info": {
       "id": "4349437d8e56",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 68.68340031984161,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "default",
@@ -222785,9 +223689,13 @@
   {
     "info": {
       "id": "fa5f3a982a61",
+      "name": "na",
       "city": "Zurich",
       "country": "Switzerland",
       "area": 123.95027539361035,
+      "address": "na",
+      "location": "47.40339622285793, 8.604245692901165",
+      "description": "Gigon Guyer 2002 - Brolberg",
       "bedrooms": 3,
       "bathrooms": 2,
       "database": "Zurich",
@@ -224448,9 +225356,13 @@
   {
     "info": {
       "id": "03ce79984f14",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 45.96144047875491,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "default",
@@ -225133,9 +226045,13 @@
   {
     "info": {
       "id": "3df92357ac92",
+      "name": "na",
       "city": "Zurich",
       "country": "Switzerland",
       "area": 141.4578077881888,
+      "address": "na",
+      "location": "47.37987291430379, 8.511064370136864",
+      "description": "Goldacker Villy",
       "bedrooms": 4,
       "bathrooms": 2,
       "database": "Zurich",
@@ -226250,9 +227166,13 @@
   {
     "info": {
       "id": "f2380ad2e94b",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 31.890800584037052,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "default",
@@ -226933,9 +227853,13 @@
   {
     "info": {
       "id": "102742c85512",
+      "name": "Grammercy",
       "city": "New York",
       "country": "USA",
       "area": 63.64291954602959,
+      "address": "2 Lexington Ave NY10010",
+      "location": "40.725841483512085, -73.9998108026952",
+      "description": "Unit 15, 1990",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "NYC",
@@ -227417,9 +228341,13 @@
   {
     "info": {
       "id": "3bd505aa47e0",
+      "name": "Ironhorse at Central Station",
       "city": "Oakland",
       "country": "USA",
       "area": 86.77385373779543,
+      "address": "1801 14th St CA 94607",
+      "location": "37.81365051639731, -122.29937772843857",
+      "description": "Unit 4",
       "bedrooms": 2,
       "bathrooms": 1,
       "database": "bay area affordable housing",
@@ -228519,9 +229447,13 @@
   {
     "info": {
       "id": "03606d99438c",
+      "name": "na",
       "city": "Zurich",
       "country": "Switzerland",
       "area": 79.0506784155441,
+      "address": "na",
+      "location": "47.37987291430379, 8.511064370136864",
+      "description": "Letzibach Fiji",
       "bedrooms": 2,
       "bathrooms": 1,
       "database": "Zurich",
@@ -229481,9 +230413,13 @@
   {
     "info": {
       "id": "7ac9f8c266a5",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 79.17164036866029,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 2,
       "bathrooms": 2,
       "database": "default",
@@ -230454,9 +231390,13 @@
   {
     "info": {
       "id": "16d8f070749b",
+      "name": "Casa Merah",
       "city": "Singapore",
       "country": "Singapore",
       "area": 101.08841746620601,
+      "address": "Tanah Merah Kechil Ave, #78-88, Singapore 465524",
+      "location": "1.3294363771513515, 103.94623837312103",
+      "description": "Unit 1",
       "bedrooms": 4,
       "bathrooms": 2,
       "database": "Singapore",
@@ -232594,9 +233534,13 @@
   {
     "info": {
       "id": "21b319adc320",
+      "name": "Coliseum Place",
       "city": "Oakland",
       "country": "USA",
       "area": 114.56015863935318,
+      "address": "805 71st Ave CA94621",
+      "location": "37.75562225033517, -122.19520054974079",
+      "description": "Unit 2",
       "bedrooms": 3,
       "bathrooms": 2,
       "database": "bay area affordable housing",
@@ -233453,9 +234397,13 @@
   {
     "info": {
       "id": "cd3f48460e6e",
+      "name": "Kalkbreite",
       "city": "Zurich",
       "country": "Switzerland",
       "area": 45.786393257032614,
+      "address": "Kalkbreitestrasse 6, CH-8003",
+      "location": "47.37437299691268, 8.520372810133646",
+      "description": "Mueller Sigrist 2014",
       "bedrooms": 0,
       "bathrooms": 1,
       "database": "Zurich",
@@ -234054,9 +235002,13 @@
   {
     "info": {
       "id": "83503778d245",
+      "name": "The Woodleigh Residences",
       "city": "Singapore",
       "country": "Singapore",
       "area": 43.10851263481891,
+      "address": "13 Bidadari Park Dr, Singapore 367805",
+      "location": "1.3387585806145303, 103.87179672788585",
+      "description": "na",
       "bedrooms": 2,
       "bathrooms": 2,
       "database": "Singapore",
@@ -235030,9 +235982,13 @@
   {
     "info": {
       "id": "96dfa77e2def",
+      "name": "Hougang Olive HDB",
       "city": "Singapore",
       "country": "Singapore",
       "area": 102.14611990386948,
+      "address": "176A Hougang St 13, Singapore 531176",
+      "location": "1.348107187747441, 103.88876825267916",
+      "description": "Unit 1",
       "bedrooms": 3,
       "bathrooms": 2,
       "database": "Singapore",
@@ -236383,9 +237339,13 @@
   {
     "info": {
       "id": "d21c5357acaf",
+      "name": "100 W",
       "city": "New York",
       "country": "USA",
       "area": 76.3512506991392,
+      "address": "100 W 31st St NY 10001",
+      "location": "40.747862805329, -73.98978973288239",
+      "description": "Unit 28b",
       "bedrooms": 2,
       "bathrooms": 1,
       "database": "NYC",
@@ -237555,9 +238515,13 @@
   {
     "info": {
       "id": "c377f4feeb0b",
+      "name": "Tampines Green Jade HDB",
       "city": "Singapore",
       "country": "Singapore",
       "area": 103.8219395051201,
+      "address": "956A Tampines St. 96, Singapore 521956",
+      "location": "1.3418104198447176, 103.93509666751798",
+      "description": "Unit 12",
       "bedrooms": 2,
       "bathrooms": 2,
       "database": "Singapore",
@@ -238992,9 +239956,13 @@
   {
     "info": {
       "id": "fbe323da03be",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 55.68953102562465,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "default",
@@ -239988,9 +240956,13 @@
   {
     "info": {
       "id": "c8a838a786d8",
+      "name": "Carlton",
       "city": "Brooklyn",
       "country": "USA",
       "area": 40.608082129569084,
+      "address": "535 Carlton Ave NY11238",
+      "location": "40.681192441973316, -73.9707676643865",
+      "description": "Unit 22, 2020",
       "bedrooms": 0,
       "bathrooms": 1,
       "database": "NYC",
@@ -240553,9 +241525,13 @@
   {
     "info": {
       "id": "64bfd77978ec",
+      "name": "na",
       "city": "Zurich",
       "country": "Switzerland",
       "area": 112.47900848279824,
+      "address": "na",
+      "location": "47.37987291430379, 8.511064370136864",
+      "description": "Competition Goldacker Kontinuum",
       "bedrooms": 2,
       "bathrooms": 1,
       "database": "Zurich",
@@ -241291,9 +242267,13 @@
   {
     "info": {
       "id": "6175f6ec8c94",
+      "name": "Hope Street",
       "city": "Brooklyn",
       "country": "USA",
       "area": 83.87105365973548,
+      "address": "8 Marcy Ave, NY11211",
+      "location": "40.713681773483636, -73.95484711339975",
+      "description": "Unit 9, 2020",
       "bedrooms": 2,
       "bathrooms": 2,
       "database": "NYC",
@@ -242698,9 +243678,13 @@
   {
     "info": {
       "id": "3a06eea8c2aa",
+      "name": "601 W",
       "city": "New York",
       "country": "USA",
       "area": 71.79118321998976,
+      "address": "601 W 137th St NY 10031",
+      "location": "40.821780611467965, -73.95446011535955",
+      "description": "Unit 21",
       "bedrooms": 3,
       "bathrooms": 1,
       "database": "NYC",
@@ -243711,9 +244695,13 @@
   {
     "info": {
       "id": "39d037b8d55d",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 62.435723781117524,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "default",
@@ -244411,9 +245399,13 @@
   {
     "info": {
       "id": "6ff13f15f94a",
+      "name": "Carlton",
       "city": "New York",
       "country": "USA",
       "area": 108.44815999449597,
+      "address": "121 Madison Ave NY 10016",
+      "location": "40.74539954389088, -73.98452306363978",
+      "description": "Unit 12b",
       "bedrooms": 4,
       "bathrooms": 2,
       "database": "NYC",
@@ -246079,9 +247071,13 @@
   {
     "info": {
       "id": "b89715594cf0",
+      "name": "Brickland Weave HDB",
       "city": "Singapore",
       "country": "Singapore",
       "area": 216.5191192783259,
+      "address": "296B Choa Chu Kang Ave 2, Singapore 682296",
+      "location": "1.377048501583107, 103.7415843310689",
+      "description": "Unit 1",
       "bedrooms": 3,
       "bathrooms": 2,
       "database": "Singapore",
@@ -247430,9 +248426,13 @@
   {
     "info": {
       "id": "bc76d1a936f3",
+      "name": "Bishan Ridges HDB",
       "city": "Singapore",
       "country": "Singapore",
       "area": 35.37807174457157,
+      "address": "532A Bishan St 14, Singapore 572532",
+      "location": "1.353269741462865, 103.85274992952006",
+      "description": "Unit 1",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "Singapore",
@@ -248249,9 +249249,13 @@
   {
     "info": {
       "id": "4ed31f831408",
+      "name": "na",
       "city": "Zurich",
       "country": "Switzerland",
       "area": 105.47234789375216,
+      "address": "na",
+      "location": "47.37987291430379, 8.511064370136864",
+      "description": "Hardau Nigel",
       "bedrooms": 3,
       "bathrooms": 1,
       "database": "Zurich",
@@ -249011,9 +250015,13 @@
   {
     "info": {
       "id": "cb735a6c7d28",
+      "name": "na",
       "city": "Zurich",
       "country": "Switzerland",
       "area": 74.45506207077415,
+      "address": "na",
+      "location": "47.37987291430379, 8.511064370136864",
+      "description": "Competition Goldacker Einsalle",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "Zurich",
@@ -249838,9 +250846,13 @@
   {
     "info": {
       "id": "fcb9b64ed646",
+      "name": "Edwin M. Lee Apartments",
       "city": "San Francisco",
       "country": "USA",
       "area": 67.57294310868019,
+      "address": "1150 3rd St CA 94158",
+      "location": "37.773303569885115, -122.39002774862479",
+      "description": "Unit 9",
       "bedrooms": 2,
       "bathrooms": 1,
       "database": "bay area affordable housing",
@@ -250670,9 +251682,13 @@
   {
     "info": {
       "id": "14cb2c87aba4",
+      "name": "Kent Ridge Hill Residences",
       "city": "Singapore",
       "country": "Singapore",
       "area": 53.26497826128616,
+      "address": "68B South Buona Vista Rd, Singapore 117330",
+      "location": "1.281248741460198, 103.78972021872653",
+      "description": "na2",
       "bedrooms": 2,
       "bathrooms": 2,
       "database": "Singapore",
@@ -251570,9 +252586,13 @@
   {
     "info": {
       "id": "08ac108b97e7",
+      "name": "BNY Mellon",
       "city": "New York",
       "country": "USA",
       "area": 173.02907242669608,
+      "address": "1 Wall St NY 10005",
+      "location": "40.7074267153254, -74.01183570702307",
+      "description": "Unit 612",
       "bedrooms": 3,
       "bathrooms": 3,
       "database": "NYC",
@@ -253880,9 +254900,13 @@
   {
     "info": {
       "id": "560c6af6502d",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 43.63546824329872,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 2,
       "bathrooms": 1,
       "database": "default",
@@ -254792,9 +255816,13 @@
   {
     "info": {
       "id": "0ddae21f5774",
+      "name": "Wohnsiedlung Hardau I",
       "city": "Zurich",
       "country": "Switzerland",
       "area": 103.58858255774248,
+      "address": "Hardstrasse 27, 8004 Z\u00fcrich, Switzerland",
+      "location": "47.37987291430379, 8.511064370136864",
+      "description": "Competition Entry Frederick",
       "bedrooms": 3,
       "bathrooms": 2,
       "database": "Zurich",
@@ -255829,9 +256857,13 @@
   {
     "info": {
       "id": "84238c1c3613",
+      "name": "Sango Court",
       "city": "Milpitas",
       "country": "USA",
       "area": 51.398349888127996,
+      "address": "355 Sango Ct CA95035",
+      "location": "37.40722498001695, -121.89323107073375",
+      "description": "Left Unit 3",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "bay area affordable housing",
@@ -256299,9 +257331,13 @@
   {
     "info": {
       "id": "0725abd11fbe",
+      "name": "Grammercy",
       "city": "New York",
       "country": "USA",
       "area": 45.938076404767344,
+      "address": "2 Lexington Ave NY10010",
+      "location": "40.725841483512085, -73.9998108026952",
+      "description": "Unit 19, 1990",
       "bedrooms": 0,
       "bathrooms": 1,
       "database": "NYC",
@@ -256800,9 +257836,13 @@
   {
     "info": {
       "id": "535a0ce9ba22",
+      "name": "Hope Street",
       "city": "Brooklyn",
       "country": "USA",
       "area": 80.15798832264409,
+      "address": "8 Marcy Ave, NY11211",
+      "location": "40.713681773483636, -73.95484711339975",
+      "description": "Unit 10, 2020",
       "bedrooms": 2,
       "bathrooms": 2,
       "database": "NYC",
@@ -257799,9 +258839,13 @@
   {
     "info": {
       "id": "dab093a3212c",
+      "name": "266 E",
       "city": "New York",
       "country": "USA",
       "area": 111.5859301870878,
+      "address": "266 E Broadway, NY 10002",
+      "location": "40.71497124903645, -73.98510466040418",
+      "description": "Unit 1",
       "bedrooms": 3,
       "bathrooms": 2,
       "database": "NYC",
@@ -259081,9 +260125,13 @@
   {
     "info": {
       "id": "5d63de9c97ff",
+      "name": "Delmas Park",
       "city": "San Jose",
       "country": "USA",
       "area": 61.65146535728127,
+      "address": "350 Barack Obama Blvd CA 95126",
+      "location": "37.32444331665218, -121.89993925627509",
+      "description": "Unit 2",
       "bedrooms": 2,
       "bathrooms": 1,
       "database": "bay area affordable housing",
@@ -259966,9 +261014,13 @@
   {
     "info": {
       "id": "8b9666e94b6c",
+      "name": "Sango Court",
       "city": "Milpitas",
       "country": "USA",
       "area": 61.49666678779613,
+      "address": "355 Sango Ct CA95035",
+      "location": "37.40722498001695, -121.89323107073375",
+      "description": "Right Unit 6",
       "bedrooms": 0,
       "bathrooms": 1,
       "database": "bay area affordable housing",
@@ -260341,9 +261393,13 @@
   {
     "info": {
       "id": "be569db49389",
+      "name": "Tampines Green Jade HDB",
       "city": "Singapore",
       "country": "Singapore",
       "area": 122.52380607067062,
+      "address": "956A Tampines St. 96, Singapore 521956",
+      "location": "1.3418104198447176, 103.93509666751798",
+      "description": "Unit 4",
       "bedrooms": 3,
       "bathrooms": 2,
       "database": "Singapore",
@@ -261612,9 +262668,13 @@
   {
     "info": {
       "id": "18540500005f",
+      "name": "Kovan Jewel",
       "city": "Singapore",
       "country": "Singapore",
       "area": 38.60571981524845,
+      "address": "51 Kovan Rd, Singapore 548534",
+      "location": "1.3581481997816882, 103.88105450750689",
+      "description": "na",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "Singapore",
@@ -262301,9 +263361,13 @@
   {
     "info": {
       "id": "c79b2d97593f",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 28.441918664942428,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 0,
       "bathrooms": 1,
       "database": "default",
@@ -262876,9 +263940,13 @@
   {
     "info": {
       "id": "74bcb15869ff",
+      "name": "Linden",
       "city": "New York",
       "country": "USA",
       "area": 173.97905340764555,
+      "address": "601 W 137th St #34  NY10031",
+      "location": "40.8217842868721, -73.95446709571041",
+      "description": "Unit 34",
       "bedrooms": 4,
       "bathrooms": 2,
       "database": "NYC",
@@ -264735,9 +265803,13 @@
   {
     "info": {
       "id": "e34d96962b30",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 180.6675714361361,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 3,
       "bathrooms": 3,
       "database": "default",
@@ -266890,9 +267962,13 @@
   {
     "info": {
       "id": "2a520ffd8892",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 64.27668644203382,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "default",
@@ -268008,9 +269084,13 @@
   {
     "info": {
       "id": "fa9cf7d3df23",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 21.542075342018222,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 0,
       "bathrooms": 1,
       "database": "default",
@@ -268394,9 +269474,13 @@
   {
     "info": {
       "id": "53d0c76b709c",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 44.76820552187224,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "default",
@@ -269269,9 +270353,13 @@
   {
     "info": {
       "id": "cefec79cf7a9",
+      "name": "Midway Village",
       "city": "Daly City",
       "country": "USA",
       "area": 27.762517081500846,
+      "address": "8 Partridge Street CA94014",
+      "location": "37.86973578557513, -122.25656720172009",
+      "description": "Unit 4",
       "bedrooms": 0,
       "bathrooms": 1,
       "database": "bay area affordable housing",
@@ -269742,9 +270830,13 @@
   {
     "info": {
       "id": "a35eaf296591",
+      "name": "na",
       "city": "Zurich",
       "country": "Switzerland",
       "area": 68.54944114774116,
+      "address": "na",
+      "location": "47.37987291430379, 8.511064370136864",
+      "description": "Competition Goldacker Trimli",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "Zurich",
@@ -270353,9 +271445,13 @@
   {
     "info": {
       "id": "f9254b7c5d87",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 57.00129088139309,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "default",
@@ -271267,9 +272363,13 @@
   {
     "info": {
       "id": "82826f27e458",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 75.53485030905087,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "default",
@@ -271763,9 +272863,13 @@
   {
     "info": {
       "id": "39e6a3595339",
+      "name": "Amsterdam",
       "city": "New York",
       "country": "USA",
       "area": 116.93070696816721,
+      "address": "765 Amsterdam Ave NY 10025",
+      "location": "40.795107936007994, -73.9693342029224",
+      "description": "Unit 10B",
       "bedrooms": 3,
       "bathrooms": 2,
       "database": "NYC",
@@ -273427,9 +274531,13 @@
   {
     "info": {
       "id": "548824e215e2",
+      "name": "Kalkbreite",
       "city": "Zurich",
       "country": "Switzerland",
       "area": 75.03095378361468,
+      "address": "Kalkbreitestrasse 6, CH-8003",
+      "location": "47.37437299691268, 8.520372810133646",
+      "description": "Mueller Sigrist 2014",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "Zurich",
@@ -274199,9 +275307,13 @@
   {
     "info": {
       "id": "1edf6ffc7450",
+      "name": "Alexandra View HBD",
       "city": "Singapore",
       "country": "Singapore",
       "area": 86.18454045806357,
+      "address": "109B Alexandra View, Singapore 152109",
+      "location": "1.2898718888952068, 103.81799587118162",
+      "description": "Unit 3",
       "bedrooms": 3,
       "bathrooms": 2,
       "database": "Singapore",
@@ -275300,9 +276412,13 @@
   {
     "info": {
       "id": "a636010b8a40",
+      "name": "Hope Street",
       "city": "Brooklyn",
       "country": "USA",
       "area": 55.37803772759435,
+      "address": "8 Marcy Ave, NY11211",
+      "location": "40.713681773483636, -73.95484711339975",
+      "description": "Unit 5, 2020",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "NYC",
@@ -276072,9 +277188,13 @@
   {
     "info": {
       "id": "464c2d010a6e",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 58.2509842291711,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "default",
@@ -276881,9 +278001,13 @@
   {
     "info": {
       "id": "4b2800545e12",
+      "name": "Tampines Green Jade HDB",
       "city": "Singapore",
       "country": "Singapore",
       "area": 183.0374151777596,
+      "address": "956A Tampines St. 96, Singapore 521956",
+      "location": "1.3418104198447176, 103.93509666751798",
+      "description": "Unit 18",
       "bedrooms": 3,
       "bathrooms": 2,
       "database": "Singapore",
@@ -278062,9 +279186,13 @@
   {
     "info": {
       "id": "06e3615760db",
+      "name": "2nd Ave",
       "city": "New York",
       "country": "USA",
       "area": 95.17045486084317,
+      "address": "763 2nd Ave NY10017",
+      "location": "40.74920797788453, -73.97290833496055",
+      "description": "Unit 1",
       "bedrooms": 4,
       "bathrooms": 2,
       "database": "NYC",
@@ -279827,9 +280955,13 @@
   {
     "info": {
       "id": "f4f2b5a1fc55",
+      "name": "Carlton",
       "city": "Brooklyn",
       "country": "USA",
       "area": 54.248219775672624,
+      "address": "535 Carlton Ave NY11238",
+      "location": "40.681192441973316, -73.9707676643865",
+      "description": "Unit 17, 2020",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "NYC",
@@ -280499,9 +281631,13 @@
   {
     "info": {
       "id": "243a9dba2b83",
+      "name": "Eunos Court HDB",
       "city": "Singapore",
       "country": "Singapore",
       "area": 104.44496679085205,
+      "address": "38A Eunos Rd 2, Singapore 401038",
+      "location": "1.3214423125745771, 103.90000409531972",
+      "description": "Unit L",
       "bedrooms": 3,
       "bathrooms": 2,
       "database": "Singapore",
@@ -281654,9 +282790,13 @@
   {
     "info": {
       "id": "1619b107e59d",
+      "name": "Coliseum Place",
       "city": "Oakland",
       "country": "USA",
       "area": 121.48211206050473,
+      "address": "805 71st Ave CA94621",
+      "location": "37.75562225033517, -122.19520054974079",
+      "description": "Unit 1",
       "bedrooms": 3,
       "bathrooms": 2,
       "database": "bay area affordable housing",
@@ -282712,9 +283852,13 @@
   {
     "info": {
       "id": "08496f731c75",
+      "name": "Wohnsiedlung Hardau I",
       "city": "Zurich",
       "country": "Switzerland",
       "area": 109.61632126028417,
+      "address": "Hardstrasse 27, 8004 Z\u00fcrich, Switzerland",
+      "location": "47.37987291430379, 8.511064370136864",
+      "description": "Competition Entry Breakfast",
       "bedrooms": 3,
       "bathrooms": 2,
       "database": "Zurich",
@@ -283698,9 +284842,13 @@
   {
     "info": {
       "id": "af9181cc50dd",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 94.05864355106327,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 3,
       "bathrooms": 2,
       "database": "default",
@@ -284704,9 +285852,13 @@
   {
     "info": {
       "id": "372e7e6d0b49",
+      "name": "Queens",
       "city": "Singapore",
       "country": "Singapore",
       "area": 107.4171502078243,
+      "address": "14 Stirling Rd, Singapore 148954",
+      "location": "1.2931424901537014, 103.80609916184865",
+      "description": "na",
       "bedrooms": 3,
       "bathrooms": 2,
       "database": "Singapore",
@@ -285837,9 +286989,13 @@
   {
     "info": {
       "id": "6a8935101733",
+      "name": "Midway Village",
       "city": "Daly City",
       "country": "USA",
       "area": 43.25684177491712,
+      "address": "8 Partridge Street CA94014",
+      "location": "37.86973578557513, -122.25656720172009",
+      "description": "Unit 8",
       "bedrooms": 2,
       "bathrooms": 1,
       "database": "bay area affordable housing",
@@ -286872,9 +288028,13 @@
   {
     "info": {
       "id": "84b94a1de177",
+      "name": "Hegianwanderweg",
       "city": "Zurich",
       "country": "Switzerland",
       "area": 120.25824611923053,
+      "address": "na",
+      "location": "47.37437299691268, 8.520372810133646",
+      "description": "EM2N 2003 - Hegianwanderweg Residential",
       "bedrooms": 2,
       "bathrooms": 2,
       "database": "Zurich",
@@ -288295,9 +289455,13 @@
   {
     "info": {
       "id": "2f7b2a46bc5b",
+      "name": "Midway Village",
       "city": "Daly City",
       "country": "USA",
       "area": 20.370297329651294,
+      "address": "8 Partridge Street CA94014",
+      "location": "37.86973578557513, -122.25656720172009",
+      "description": "Unit 7",
       "bedrooms": 0,
       "bathrooms": 1,
       "database": "bay area affordable housing",
@@ -288867,9 +290031,13 @@
   {
     "info": {
       "id": "c2b02e0bbc1c",
+      "name": "Edwin M. Lee Apartments",
       "city": "San Francisco",
       "country": "USA",
       "area": 45.00522618260584,
+      "address": "1150 3rd St CA 94158",
+      "location": "37.773303569885115, -122.39002774862479",
+      "description": "Unit 2",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "bay area affordable housing",
@@ -289657,9 +290825,13 @@
   {
     "info": {
       "id": "e3fb4b4a277b",
+      "name": "Flatbush",
       "city": "Brooklyn",
       "country": "USA",
       "area": 86.13644050249422,
+      "address": "800 Flatbush Ave NY 11226",
+      "location": "40.65356464337749, -73.95955723887676",
+      "description": "Unit 217",
       "bedrooms": 3,
       "bathrooms": 2,
       "database": "NYC",
@@ -290799,9 +291971,13 @@
   {
     "info": {
       "id": "02d66677b2c4",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 76.28564750555188,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "default",
@@ -291770,9 +292946,13 @@
   {
     "info": {
       "id": "80b46c1e3488",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 98.858534930616,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 2,
       "bathrooms": 2,
       "database": "default",
@@ -293068,9 +294248,13 @@
   {
     "info": {
       "id": "e08c969b9111",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 98.76032687103859,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 2,
       "bathrooms": 2,
       "database": "default",
@@ -294305,9 +295489,13 @@
   {
     "info": {
       "id": "e19cc5804171",
+      "name": "Midway Village",
       "city": "Daly City",
       "country": "USA",
       "area": 46.49845594964427,
+      "address": "8 Partridge Street CA94014",
+      "location": "37.86973578557513, -122.25656720172009",
+      "description": "Unit 2",
       "bedrooms": 2,
       "bathrooms": 1,
       "database": "bay area affordable housing",
@@ -295381,9 +296569,13 @@
   {
     "info": {
       "id": "5da851c00c5a",
+      "name": "Kalkbreite",
       "city": "Zurich",
       "country": "Switzerland",
       "area": 34.847551906103035,
+      "address": "Kalkbreitestrasse 6, CH-8003",
+      "location": "47.37437299691268, 8.520372810133646",
+      "description": "Mueller Sigrist 2014",
       "bedrooms": 0,
       "bathrooms": 1,
       "database": "Zurich",
@@ -295871,9 +297063,13 @@
   {
     "info": {
       "id": "c2ec5c7358c4",
+      "name": "150 E",
       "city": "New York",
       "country": "USA",
       "area": 115.60589459547191,
+      "address": "150 E 27th St, NY 10016",
+      "location": "40.74154060227962, -73.98223132924625",
+      "description": "Unit 2EF",
       "bedrooms": 3,
       "bathrooms": 2,
       "database": "NYC",
@@ -297517,9 +298713,13 @@
   {
     "info": {
       "id": "4867d1baf304",
+      "name": "Sango Court",
       "city": "Milpitas",
       "country": "USA",
       "area": 95.91843573335791,
+      "address": "355 Sango Ct CA95035",
+      "location": "37.40722498001695, -121.89323107073375",
+      "description": "Right Unit 3",
       "bedrooms": 2,
       "bathrooms": 1,
       "database": "bay area affordable housing",
@@ -298217,9 +299417,13 @@
   {
     "info": {
       "id": "72c7342f7c77",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 89.42304014287116,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 1,
       "bathrooms": 0,
       "database": "default",
@@ -298893,9 +300097,13 @@
   {
     "info": {
       "id": "4a40d551826c",
+      "name": "Carlton",
       "city": "Brooklyn",
       "country": "USA",
       "area": 55.644888941777026,
+      "address": "535 Carlton Ave NY11238",
+      "location": "40.681192441973316, -73.9707676643865",
+      "description": "Unit 14, 2020",
       "bedrooms": 2,
       "bathrooms": 2,
       "database": "NYC",
@@ -299806,9 +301014,13 @@
   {
     "info": {
       "id": "e59d0eef5adc",
+      "name": "Hope Street",
       "city": "Brooklyn",
       "country": "USA",
       "area": 87.32322269420365,
+      "address": "8 Marcy Ave, NY11211",
+      "location": "40.713681773483636, -73.95484711339975",
+      "description": "Unit 6, 2020",
       "bedrooms": 2,
       "bathrooms": 2,
       "database": "NYC",
@@ -301233,9 +302445,13 @@
   {
     "info": {
       "id": "82a0e56cdc71",
+      "name": "Hope Street",
       "city": "Brooklyn",
       "country": "USA",
       "area": 43.20718269460485,
+      "address": "8 Marcy Ave, NY11211",
+      "location": "40.713681773483636, -73.95484711339975",
+      "description": "Unit 14, 2020",
       "bedrooms": 0,
       "bathrooms": 1,
       "database": "NYC",
@@ -302023,9 +303239,13 @@
   {
     "info": {
       "id": "aeb9ebb3d3f2",
+      "name": "na",
       "city": "Zurich",
       "country": "Switzerland",
       "area": 80.10830558958696,
+      "address": "na",
+      "location": "47.40339622285793, 8.604245692901165",
+      "description": "Gut Schoepp 2023 - HeidiAbel Competition",
       "bedrooms": 2,
       "bathrooms": 1,
       "database": "Zurich",
@@ -302960,9 +304180,13 @@
   {
     "info": {
       "id": "9322064b8951",
+      "name": "Tampines Green Jade HDB",
       "city": "Singapore",
       "country": "Singapore",
       "area": 74.32673169590817,
+      "address": "956A Tampines St. 96, Singapore 521956",
+      "location": "1.3418104198447176, 103.93509666751798",
+      "description": "Unit 17",
       "bedrooms": 2,
       "bathrooms": 2,
       "database": "Singapore",
@@ -304102,9 +305326,13 @@
   {
     "info": {
       "id": "cbe4a4558aa6",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 29.8100736589237,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "default",
@@ -304681,9 +305909,13 @@
   {
     "info": {
       "id": "81bd4cbd10ef",
+      "name": "Gotham Point",
       "city": "Long Island City",
       "country": "USA",
       "area": 84.02483244299219,
+      "address": "56-27 2nd St, NY 11101",
+      "location": "40.73900717007256, -73.96098822496528",
+      "description": "Unit 2205",
       "bedrooms": 3,
       "bathrooms": 2,
       "database": "NYC",
@@ -305846,9 +307078,13 @@
   {
     "info": {
       "id": "2c2a97a44eac",
+      "name": "Circuit Road",
       "city": "Singapore",
       "country": "Singapore",
       "area": 47.527233691223955,
+      "address": "66A Circuit Rd, Singapore 371066",
+      "location": "1.3263272022261943, 103.88800087123573",
+      "description": "na",
       "bedrooms": 2,
       "bathrooms": 1,
       "database": "Singapore",
@@ -306762,9 +307998,13 @@
   {
     "info": {
       "id": "3a3b82021b71",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 81.40735627532658,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 2,
       "bathrooms": 1,
       "database": "default",
@@ -307718,9 +308958,13 @@
   {
     "info": {
       "id": "b3dbff81eb36",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 78.83557017256598,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 2,
       "bathrooms": 1,
       "database": "default",
@@ -308884,9 +310128,13 @@
   {
     "info": {
       "id": "aa7e9adb8438",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 95.84102728962672,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 2,
       "bathrooms": 2,
       "database": "default",
@@ -310497,9 +311745,13 @@
   {
     "info": {
       "id": "0d139cfcfbda",
+      "name": "Tassafaronga Village",
       "city": "Oakland",
       "country": "USA",
       "area": 95.30420781011344,
+      "address": "930 84th Ave CA94621",
+      "location": "37.749924861437705, -122.18563698143019",
+      "description": "Unit 1",
       "bedrooms": 2,
       "bathrooms": 1,
       "database": "bay area affordable housing",
@@ -311419,9 +312671,13 @@
   {
     "info": {
       "id": "65ef4d9d2da3",
+      "name": "Kalkbreite",
       "city": "Zurich",
       "country": "Switzerland",
       "area": 33.80352704139659,
+      "address": "Kalkbreitestrasse 6, CH-8003",
+      "location": "47.37437299691268, 8.520372810133646",
+      "description": "Mueller Sigrist 2014",
       "bedrooms": 0,
       "bathrooms": 1,
       "database": "Zurich",
@@ -311897,9 +313153,13 @@
   {
     "info": {
       "id": "c81f283c1ad7",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 49.574250972205455,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 0,
       "bathrooms": 1,
       "database": "default",
@@ -312402,9 +313662,13 @@
   {
     "info": {
       "id": "fae744155c6a",
+      "name": "401 E",
       "city": "New York",
       "country": "USA",
       "area": 131.3063129969596,
+      "address": "401 E 34th St, NY 10016",
+      "location": "40.74392368877774, -73.97254231163986",
+      "description": "Unit 6C",
       "bedrooms": 3,
       "bathrooms": 2,
       "database": "NYC",
@@ -313969,9 +315233,13 @@
   {
     "info": {
       "id": "7a16583ea5a1",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 44.141500811489955,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 0,
       "bathrooms": 1,
       "database": "default",
@@ -314657,9 +315925,13 @@
   {
     "info": {
       "id": "312c4c6d17fa",
+      "name": "Carlton",
       "city": "New York",
       "country": "USA",
       "area": 165.05333534357214,
+      "address": "412 Cathedral Pkwy NY 10025",
+      "location": "40.80197079615467, -73.96174915443405",
+      "description": "Unit 442",
       "bedrooms": 4,
       "bathrooms": 2,
       "database": "NYC",
@@ -316558,9 +317830,13 @@
   {
     "info": {
       "id": "04ff772b6cc0",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 135.8232105618191,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 3,
       "bathrooms": 2,
       "database": "default",
@@ -317219,9 +318495,13 @@
   {
     "info": {
       "id": "4b3a51a9941c",
+      "name": "na",
       "city": "Zurich",
       "country": "Switzerland",
       "area": 137.37686336532352,
+      "address": "na",
+      "location": "47.37987291430379, 8.511064370136864",
+      "description": "Goldacker Binoclu",
       "bedrooms": 4,
       "bathrooms": 2,
       "database": "Zurich",
@@ -318341,9 +319621,13 @@
   {
     "info": {
       "id": "fff0ab320462",
+      "name": "Grand Dunman",
       "city": "Singapore",
       "country": "Singapore",
       "area": 47.945063657622086,
+      "address": "2 Dunman Rd, Singapore 439188",
+      "location": "1.3083602157589374, 103.89082976712682",
+      "description": "na",
       "bedrooms": 2,
       "bathrooms": 1,
       "database": "Singapore",
@@ -319059,9 +320343,13 @@
   {
     "info": {
       "id": "d422de1d73ed",
+      "name": "Centennia Suites",
       "city": "Singapore",
       "country": "Singapore",
       "area": 136.34079118768568,
+      "address": "100 Kim Seng Rd, Singapore 239427",
+      "location": "1.293006271434362, 103.8334633068527",
+      "description": "Unit 1",
       "bedrooms": 3,
       "bathrooms": 4,
       "database": "Singapore",
@@ -321083,9 +322371,13 @@
   {
     "info": {
       "id": "55a863c808f6",
+      "name": "Tampines Green Jade HDB",
       "city": "Singapore",
       "country": "Singapore",
       "area": 125.81650843609532,
+      "address": "956A Tampines St. 96, Singapore 521956",
+      "location": "1.3418104198447176, 103.93509666751798",
+      "description": "Unit 9",
       "bedrooms": 3,
       "bathrooms": 2,
       "database": "Singapore",
@@ -322612,9 +323904,13 @@
   {
     "info": {
       "id": "101bce8d61e1",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 58.115889231876444,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 2,
       "bathrooms": 1,
       "database": "default",
@@ -323421,9 +324717,13 @@
   {
     "info": {
       "id": "bcc6a8e86763",
+      "name": "Grammercy Park",
       "city": "New York",
       "country": "USA",
       "area": 202.24617451519225,
+      "address": "121 E 22nd St,  NY 10010",
+      "location": "40.739389817012515, -73.9853542715238",
+      "description": "Unit 1703",
       "bedrooms": 3,
       "bathrooms": 4,
       "database": "NYC",
@@ -326055,9 +327355,13 @@
   {
     "info": {
       "id": "2ed1d2719aae",
+      "name": "516 W",
       "city": "Brooklyn",
       "country": "USA",
       "area": 103.67593547118304,
+      "address": "1277 E 14th St NY 11230",
+      "location": "40.61898303163866, -73.9604565306245",
+      "description": "Unit 701C",
       "bedrooms": 3,
       "bathrooms": 2,
       "database": "NYC",
@@ -327308,9 +328612,13 @@
   {
     "info": {
       "id": "378785304d2e",
+      "name": "Grammercy",
       "city": "New York",
       "country": "USA",
       "area": 65.80251027132181,
+      "address": "2 Lexington Ave NY10010",
+      "location": "40.725841483512085, -73.9998108026952",
+      "description": "Unit 4, 1990",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "NYC",
@@ -328004,9 +329312,13 @@
   {
     "info": {
       "id": "625a681e8964",
+      "name": "Tampines Green Jade HDB",
       "city": "Singapore",
       "country": "Singapore",
       "area": 135.43527484405786,
+      "address": "956A Tampines St. 96, Singapore 521956",
+      "location": "1.3418104198447176, 103.93509666751798",
+      "description": "Unit 7",
       "bedrooms": 3,
       "bathrooms": 2,
       "database": "Singapore",
@@ -329553,9 +330865,13 @@
   {
     "info": {
       "id": "4fa5de6127f2",
+      "name": "Escher Terraces",
       "city": "Zurich",
       "country": "Switzerland",
       "area": 96.43312971279374,
+      "address": "Am Wasser 10, 8600 D\u00fcbendorf, Switzerland",
+      "location": "47.40339622285793, 8.604245692901165",
+      "description": "SchneiderStuderPrimas 2015",
       "bedrooms": 2,
       "bathrooms": 1,
       "database": "Zurich",
@@ -330378,9 +331694,13 @@
   {
     "info": {
       "id": "8076864c2add",
+      "name": "Grammercy",
       "city": "New York",
       "country": "USA",
       "area": 62.79611355050292,
+      "address": "2 Lexington Ave NY10010",
+      "location": "40.725841483512085, -73.9998108026952",
+      "description": "Unit 16, 1990",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "NYC",
@@ -331102,9 +332422,13 @@
   {
     "info": {
       "id": "ed87f3b9e7e0",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 58.01099281030182,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "default",
@@ -332013,9 +333337,13 @@
   {
     "info": {
       "id": "e2166155eeb1",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 82.51843863149669,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "default",
@@ -333192,9 +334520,13 @@
   {
     "info": {
       "id": "a4cc49d69b5e",
+      "name": "Coliseum Place",
       "city": "Oakland",
       "country": "USA",
       "area": 88.89484311873821,
+      "address": "805 71st Ave CA94621",
+      "location": "37.75562225033517, -122.19520054974079",
+      "description": "Unit 5",
       "bedrooms": 2,
       "bathrooms": 1,
       "database": "bay area affordable housing",
@@ -333863,9 +335195,13 @@
   {
     "info": {
       "id": "232812118a50",
+      "name": "Grammercy",
       "city": "New York",
       "country": "USA",
       "area": 65.59403374812973,
+      "address": "2 Lexington Ave NY10010",
+      "location": "40.725841483512085, -73.9998108026952",
+      "description": "Unit 13, 1990",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "NYC",
@@ -334467,9 +335803,13 @@
   {
     "info": {
       "id": "0b4cff2bafbb",
+      "name": "Midway Village",
       "city": "Daly City",
       "country": "USA",
       "area": 24.079160182858686,
+      "address": "8 Partridge Street CA94014",
+      "location": "37.86973578557513, -122.25656720172009",
+      "description": "Unit 9",
       "bedrooms": 0,
       "bathrooms": 1,
       "database": "bay area affordable housing",
@@ -335039,9 +336379,13 @@
   {
     "info": {
       "id": "dc082680f54f",
+      "name": "Tampines Green Jade HDB",
       "city": "Singapore",
       "country": "Singapore",
       "area": 104.35151585783206,
+      "address": "956A Tampines St. 96, Singapore 521956",
+      "location": "1.3418104198447176, 103.93509666751798",
+      "description": "Unit 3",
       "bedrooms": 3,
       "bathrooms": 2,
       "database": "Singapore",
@@ -336181,9 +337525,13 @@
   {
     "info": {
       "id": "a5ff8de67820",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 40.332375874194845,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 0,
       "bathrooms": 1,
       "database": "default",
@@ -336852,9 +338200,13 @@
   {
     "info": {
       "id": "b703d5dee68d",
+      "name": "Bartley Beacon HDB",
       "city": "Singapore",
       "country": "Singapore",
       "area": 61.78774180814173,
+      "address": "223A Mount Vernon Rd, Singapore",
+      "location": "1.3420330921201462, 103.8795973695313",
+      "description": "Unit 4",
       "bedrooms": 2,
       "bathrooms": 2,
       "database": "Singapore",
@@ -337768,9 +339120,13 @@
   {
     "info": {
       "id": "2d874cd04ec1",
+      "name": "Carlton",
       "city": "Brooklyn",
       "country": "USA",
       "area": 41.863610494186105,
+      "address": "535 Carlton Ave NY11238",
+      "location": "40.681192441973316, -73.9707676643865",
+      "description": "Unit 1, 2020",
       "bedrooms": 0,
       "bathrooms": 1,
       "database": "NYC",
@@ -338238,9 +339594,13 @@
   {
     "info": {
       "id": "b35171322731",
+      "name": "Goldacker Trimli",
       "city": "Zurich",
       "country": "Switzerland",
       "area": 112.08180551472469,
+      "address": "na",
+      "location": "47.389741586966366, 8.493961275555224",
+      "description": "Goldacker Trimli",
       "bedrooms": 3,
       "bathrooms": 1,
       "database": "Zurich",
@@ -339095,9 +340455,13 @@
   {
     "info": {
       "id": "ec8ccdc5f394",
+      "name": "Hope Street",
       "city": "Brooklyn",
       "country": "USA",
       "area": 43.31842085699827,
+      "address": "8 Marcy Ave, NY11211",
+      "location": "40.713681773483636, -73.95484711339975",
+      "description": "Unit 15, 2020",
       "bedrooms": 0,
       "bathrooms": 1,
       "database": "NYC",
@@ -339872,9 +341236,13 @@
   {
     "info": {
       "id": "409f3e33cc36",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 61.096171372092,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "default",
@@ -340846,9 +342214,13 @@
   {
     "info": {
       "id": "d80d3c51945e",
+      "name": "401 E",
       "city": "New York",
       "country": "USA",
       "area": 117.59164228466398,
+      "address": "401 E 34th St, NY 10016",
+      "location": "40.74392368877774, -73.97254231163986",
+      "description": "Unit 14J",
       "bedrooms": 3,
       "bathrooms": 2,
       "database": "NYC",
@@ -342211,9 +343583,13 @@
   {
     "info": {
       "id": "0a0d11480c70",
+      "name": "La Avenida",
       "city": "Mountain View",
       "country": "USA",
       "area": 61.537271010136465,
+      "address": "1188 Armand Dr CA94043",
+      "location": "37.413676777948154, -122.0728040360178",
+      "description": "Unit 6",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "bay area affordable housing",
@@ -342819,9 +344195,13 @@
   {
     "info": {
       "id": "6989d2cbf07e",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 97.29351785730643,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 2,
       "bathrooms": 1,
       "database": "default",
@@ -344351,9 +345731,13 @@
   {
     "info": {
       "id": "172dd29bfcb5",
+      "name": "Franklin",
       "city": "New York",
       "country": "USA",
       "area": 164.86356651160895,
+      "address": "5 Franklin Pl NY 10013",
+      "location": "40.71791545964565, -74.00368002334892",
+      "description": "Unit 1",
       "bedrooms": 3,
       "bathrooms": 3,
       "database": "NYC",
@@ -346322,9 +347706,13 @@
   {
     "info": {
       "id": "5d585d028ef8",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 66.25576384317873,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "default",
@@ -347005,9 +348393,13 @@
   {
     "info": {
       "id": "f1f08477ae8a",
+      "name": "Carissa Park Condos",
       "city": "Singapore",
       "country": "Singapore",
       "area": 121.87586570662097,
+      "address": "2 Flora Dr, Singapore 507025",
+      "location": "1.359666772243844, 103.96349863361228",
+      "description": "Unit 1",
       "bedrooms": 3,
       "bathrooms": 3,
       "database": "Singapore",
@@ -348842,9 +350234,13 @@
   {
     "info": {
       "id": "86ea9cd18662",
+      "name": "Tampines Green Jade HDB",
       "city": "Singapore",
       "country": "Singapore",
       "area": 66.0544974294753,
+      "address": "956A Tampines St. 96, Singapore 521956",
+      "location": "1.3418104198447176, 103.93509666751798",
+      "description": "Unit 13",
       "bedrooms": 2,
       "bathrooms": 2,
       "database": "Singapore",
@@ -350174,9 +351570,13 @@
   {
     "info": {
       "id": "bfc758bfd2b7",
+      "name": "na",
       "city": "Zurich",
       "country": "Switzerland",
       "area": 64.40247449622257,
+      "address": "na",
+      "location": "47.40339622285793, 8.604245692901165",
+      "description": "DeBeer 2023 - HeidiAbel",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "Zurich",
@@ -350815,9 +352215,13 @@
   {
     "info": {
       "id": "8322b975aa68",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 55.319189005403125,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "default",
@@ -351606,9 +353010,13 @@
   {
     "info": {
       "id": "3c98b43877bc",
+      "name": "Eunos Court HDB",
       "city": "Singapore",
       "country": "Singapore",
       "area": 36.06160407464995,
+      "address": "38A Eunos Rd 2, Singapore 401038",
+      "location": "1.3214423125745771, 103.90000409531972",
+      "description": "1 Bed Unit B",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "Singapore",
@@ -352391,9 +353799,13 @@
   {
     "info": {
       "id": "526cc3d25c9a",
+      "name": "The Poiz Residences",
       "city": "Singapore",
       "country": "Singapore",
       "area": 32.59628124300798,
+      "address": "6 Meyappa Chettiar Rd, Singapore 358454",
+      "location": "1.3309673064411887, 103.8682433509839",
+      "description": "na",
       "bedrooms": 0,
       "bathrooms": 1,
       "database": "Singapore",
@@ -352944,9 +354356,13 @@
   {
     "info": {
       "id": "d7bbd44df0b9",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 60.15053297606261,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "default",
@@ -353723,9 +355139,13 @@
   {
     "info": {
       "id": "40f8f0eebe10",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 82.01115737433946,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 2,
       "bathrooms": 1,
       "database": "default",
@@ -354515,9 +355935,13 @@
   {
     "info": {
       "id": "57f6de54ce91",
+      "name": "Hope Street",
       "city": "Brooklyn",
       "country": "USA",
       "area": 32.66091211289313,
+      "address": "8 Marcy Ave, NY11211",
+      "location": "40.713681773483636, -73.95484711339975",
+      "description": "Unit 16, 2020",
       "bedrooms": 0,
       "bathrooms": 1,
       "database": "NYC",
@@ -355286,9 +356710,13 @@
   {
     "info": {
       "id": "e513674bdf31",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 95.00462869500126,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 0,
       "bathrooms": 1,
       "database": "default",
@@ -355743,9 +357171,13 @@
   {
     "info": {
       "id": "a89921b73d44",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 53.561098982229595,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 2,
       "bathrooms": 1,
       "database": "default",
@@ -356465,9 +357897,13 @@
   {
     "info": {
       "id": "418458b6417f",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 63.964808919986154,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "default",
@@ -357043,9 +358479,13 @@
   {
     "info": {
       "id": "f23e89717129",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 52.04134312909471,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "default",
@@ -357677,9 +359117,13 @@
   {
     "info": {
       "id": "736f7b5fe42b",
+      "name": "Matara",
       "city": "Zurich",
       "country": "Switzerland",
       "area": 91.92681111820275,
+      "address": "na",
+      "location": "47.389741586966366, 8.493961275555224",
+      "description": "Matara",
       "bedrooms": 2,
       "bathrooms": 1,
       "database": "Zurich",
@@ -358421,9 +359865,13 @@
   {
     "info": {
       "id": "c30d73eaecf9",
+      "name": "Midway Village",
       "city": "Daly City",
       "country": "USA",
       "area": 31.437414348592938,
+      "address": "8 Partridge Street CA94014",
+      "location": "37.86973578557513, -122.25656720172009",
+      "description": "Unit 6",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "bay area affordable housing",
@@ -359181,9 +360629,13 @@
   {
     "info": {
       "id": "757e76735959",
+      "name": "Stuveysant Town",
       "city": "New York",
       "country": "USA",
       "area": 109.14760140166891,
+      "address": "610 E 20th Streat 9B",
+      "location": "40.74920797788453, -73.97290833496055",
+      "description": "Unit 9b",
       "bedrooms": 4,
       "bathrooms": 1,
       "database": "NYC",
@@ -360752,9 +362204,13 @@
   {
     "info": {
       "id": "f33cbd57d8cc",
+      "name": "504 East",
       "city": "New York",
       "country": "USA",
       "area": 76.69077863244456,
+      "address": "504 E 5th St NY 10009",
+      "location": "40.72466273647693, -73.98415257299419",
+      "description": "Unit 4B",
       "bedrooms": 3,
       "bathrooms": 2,
       "database": "NYC",
@@ -362129,9 +363585,13 @@
   {
     "info": {
       "id": "3034f9a681e7",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 105.73966054331066,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 2,
       "bathrooms": 2,
       "database": "default",
@@ -363442,9 +364902,13 @@
   {
     "info": {
       "id": "d5d2f4a8dd50",
+      "name": "na",
       "city": "Zurich",
       "country": "Switzerland",
       "area": 63.47780535410857,
+      "address": "na",
+      "location": "47.40339622285793, 8.604245692901165",
+      "description": "DeBeer 2023 - HeidiAbel",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "Zurich",
@@ -364068,9 +365532,13 @@
   {
     "info": {
       "id": "fdd50305195c",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 53.186647353007494,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "default",
@@ -364982,9 +366450,13 @@
   {
     "info": {
       "id": "04a4423f3f43",
+      "name": "Sango Court",
       "city": "Milpitas",
       "country": "USA",
       "area": 75.33152997403522,
+      "address": "355 Sango Ct CA95035",
+      "location": "37.40722498001695, -121.89323107073375",
+      "description": "Left Unit 2",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "bay area affordable housing",
@@ -365454,9 +366926,13 @@
   {
     "info": {
       "id": "6dd269411238",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 66.67860161378505,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 0,
       "bathrooms": 1,
       "database": "default",
@@ -366073,9 +367549,13 @@
   {
     "info": {
       "id": "ad0b610e7801",
+      "name": "Ironhorse at Central Station",
       "city": "Oakland",
       "country": "USA",
       "area": 67.49925780345802,
+      "address": "1801 14th St CA 94607",
+      "location": "37.81365051639731, -122.29937772843857",
+      "description": "Unit 5",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "bay area affordable housing",
@@ -366682,9 +368162,13 @@
   {
     "info": {
       "id": "d7be94002ecd",
+      "name": "Sky Vue",
       "city": "Singapore",
       "country": "Singapore",
       "area": 54.31081144802738,
+      "address": "3 Bishan St. 15, Singapore 573911",
+      "location": "1.3526682964979029, 103.85083755525459",
+      "description": "na",
       "bedrooms": 2,
       "bathrooms": 2,
       "database": "Singapore",
@@ -367828,9 +369312,13 @@
   {
     "info": {
       "id": "1b77a6b769a2",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 67.72992283297266,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "default",
@@ -368721,9 +370209,13 @@
   {
     "info": {
       "id": "522b4eb6f9c3",
+      "name": "Carlton",
       "city": "Brooklyn",
       "country": "USA",
       "area": 68.96319488162408,
+      "address": "535 Carlton Ave NY11238",
+      "location": "40.681192441973316, -73.9707676643865",
+      "description": "Unit 12, 2020",
       "bedrooms": 2,
       "bathrooms": 2,
       "database": "NYC",
@@ -369699,9 +371191,13 @@
   {
     "info": {
       "id": "2df4af6587c5",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 114.00599587153903,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 1,
       "bathrooms": 2,
       "database": "default",
@@ -370329,9 +371825,13 @@
   {
     "info": {
       "id": "c3a55650052e",
+      "name": "236 W",
       "city": "New York",
       "country": "USA",
       "area": 123.17146614714966,
+      "address": "236 W 135th St NY10030",
+      "location": "40.815774939246594, -73.94512741175527",
+      "description": "Unit 1",
       "bedrooms": 4,
       "bathrooms": 2,
       "database": "NYC",
@@ -371868,9 +373368,13 @@
   {
     "info": {
       "id": "f0c0e202e64f",
+      "name": "Kalkbreite",
       "city": "Zurich",
       "country": "Switzerland",
       "area": 65.55181637455826,
+      "address": "Kalkbreitestrasse 6, CH-8003",
+      "location": "47.37437299691268, 8.520372810133646",
+      "description": "Mueller Sigrist 2014",
       "bedrooms": 2,
       "bathrooms": 1,
       "database": "Zurich",
@@ -372607,9 +374111,13 @@
   {
     "info": {
       "id": "cdce4d85c95d",
+      "name": "Delmas Park",
       "city": "San Jose",
       "country": "USA",
       "area": 34.991182774538174,
+      "address": "350 Barack Obama Blvd CA 95126",
+      "location": "37.32444331665218, -121.89993925627509",
+      "description": "Unit 6",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "bay area affordable housing",
@@ -373211,9 +374719,13 @@
   {
     "info": {
       "id": "b0e484624a98",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 43.997621971309876,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "default",
@@ -373787,9 +375299,13 @@
   {
     "info": {
       "id": "4ac2dd9850f4",
+      "name": "Hope Street",
       "city": "Brooklyn",
       "country": "USA",
       "area": 103.80747563048499,
+      "address": "8 Marcy Ave, NY11211",
+      "location": "40.713681773483636, -73.95484711339975",
+      "description": "Unit 8, 2020",
       "bedrooms": 2,
       "bathrooms": 2,
       "database": "NYC",
@@ -375114,9 +376630,13 @@
   {
     "info": {
       "id": "ea178caefd7c",
+      "name": "Carlton",
       "city": "Brooklyn",
       "country": "USA",
       "area": 70.7684193003588,
+      "address": "535 Carlton Ave NY11238",
+      "location": "40.681192441973316, -73.9707676643865",
+      "description": "Unit 15, 2020",
       "bedrooms": 2,
       "bathrooms": 1,
       "database": "NYC",
@@ -375925,9 +377445,13 @@
   {
     "info": {
       "id": "61b9084f5762",
+      "name": "Tampines Green Jade HDB",
       "city": "Singapore",
       "country": "Singapore",
       "area": 38.88628858385346,
+      "address": "956A Tampines St. 96, Singapore 521956",
+      "location": "1.3418104198447176, 103.93509666751798",
+      "description": "Unit 14",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "Singapore",
@@ -376719,9 +378243,13 @@
   {
     "info": {
       "id": "51edc29f0c2b",
+      "name": "Avenue South",
       "city": "Singapore",
       "country": "Singapore",
       "area": 46.758796957845334,
+      "address": "1 Silat Ave, Singapore 168872",
+      "location": "1.2767092743065114, 103.83017008054897",
+      "description": "na",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "Singapore",
@@ -377709,9 +379237,13 @@
   {
     "info": {
       "id": "c8801cc74156",
+      "name": "Midway Village",
       "city": "Daly City",
       "country": "USA",
       "area": 60.39632398863614,
+      "address": "8 Partridge Street CA94014",
+      "location": "37.86973578557513, -122.25656720172009",
+      "description": "Unit 1",
       "bedrooms": 3,
       "bathrooms": 2,
       "database": "bay area affordable housing",
@@ -378869,9 +380401,13 @@
   {
     "info": {
       "id": "4918f2fe2efb",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 65.81618458527973,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "default",
@@ -379987,9 +381523,13 @@
   {
     "info": {
       "id": "04a4423f3f43",
+      "name": "Sango Court",
       "city": "Milpitas",
       "country": "USA",
       "area": 75.3315299740425,
+      "address": "355 Sango Ct CA95035",
+      "location": "37.40722498001695, -121.89323107073375",
+      "description": "Right Unit 2",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "bay area affordable housing",
@@ -380459,9 +381999,13 @@
   {
     "info": {
       "id": "4f5107fecb54",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 63.41687555052122,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "default",
@@ -381332,9 +382876,13 @@
   {
     "info": {
       "id": "c57013135e70",
+      "name": "La Avenida",
       "city": "Mountain View",
       "country": "USA",
       "area": 37.08770377442124,
+      "address": "1188 Armand Dr CA94043",
+      "location": "37.413676777948154, -122.0728040360178",
+      "description": "Unit 2",
       "bedrooms": 0,
       "bathrooms": 1,
       "database": "bay area affordable housing",
@@ -381904,9 +383452,13 @@
   {
     "info": {
       "id": "d7562257ca7c",
+      "name": "Kalkbreite",
       "city": "Zurich",
       "country": "Switzerland",
       "area": 54.73117405640369,
+      "address": "Kalkbreitestrasse 6, CH-8003",
+      "location": "47.37437299691268, 8.520372810133646",
+      "description": "Mueller Sigrist 2014",
       "bedrooms": 0,
       "bathrooms": 1,
       "database": "Zurich",
@@ -382409,9 +383961,13 @@
   {
     "info": {
       "id": "d6797fd09383",
+      "name": "Bennet",
       "city": "New York",
       "country": "USA",
       "area": 70.73564082211124,
+      "address": "1 Bennett Ave NY10033",
+      "location": "40.850610154200425, -73.93649209665045",
+      "description": "Unit 21c",
       "bedrooms": 3,
       "bathrooms": 1,
       "database": "NYC",
@@ -383573,9 +385129,13 @@
   {
     "info": {
       "id": "f7e99e2df80c",
+      "name": "Eunos Court HDB",
       "city": "Singapore",
       "country": "Singapore",
       "area": 72.97799360691351,
+      "address": "38A Eunos Rd 2, Singapore 401038",
+      "location": "1.3214423125745771, 103.90000409531972",
+      "description": "Unit N",
       "bedrooms": 2,
       "bathrooms": 2,
       "database": "Singapore",
@@ -384739,9 +386299,13 @@
   {
     "info": {
       "id": "6b3568e2f64f",
+      "name": "Ocean Park",
       "city": "Singapore",
       "country": "Singapore",
       "area": 162.04333220059925,
+      "address": "530 E Coast Rd, Singapore 458970",
+      "location": "1.3083976575874212, 103.91918214512651",
+      "description": "na",
       "bedrooms": 3,
       "bathrooms": 2,
       "database": "Singapore",
@@ -386078,9 +387642,13 @@
   {
     "info": {
       "id": "e0b933a66e2f",
+      "name": "Kalkbreite",
       "city": "Zurich",
       "country": "Switzerland",
       "area": 57.07748786408047,
+      "address": "Kalkbreitestrasse 6, CH-8003",
+      "location": "47.37437299691268, 8.520372810133646",
+      "description": "Mueller Sigrist 2014",
       "bedrooms": 0,
       "bathrooms": 1,
       "database": "Zurich",
@@ -386656,9 +388224,13 @@
   {
     "info": {
       "id": "86d8dd808900",
+      "name": "Eunos Court HDB",
       "city": "Singapore",
       "country": "Singapore",
       "area": 117.52013500873363,
+      "address": "38A Eunos Rd 2, Singapore 401038",
+      "location": "1.3214423125745771, 103.90000409531972",
+      "description": "Unit I",
       "bedrooms": 3,
       "bathrooms": 3,
       "database": "Singapore",
@@ -388174,9 +389746,13 @@
   {
     "info": {
       "id": "c4475ee822f7",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 52.489216046957786,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "default",
@@ -389375,9 +390951,13 @@
   {
     "info": {
       "id": "2693c2c657bb",
+      "name": "na",
       "city": "Zurich",
       "country": "Switzerland",
       "area": 78.0312319949735,
+      "address": "na",
+      "location": "47.37987291430379, 8.511064370136864",
+      "description": "Competition Goldacker Villy",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "Zurich",
@@ -390082,9 +391662,13 @@
   {
     "info": {
       "id": "2809f849a5f1",
+      "name": "574 W",
       "city": "New York",
       "country": "USA",
       "area": 75.31313220830634,
+      "address": "574 W 142nd St NY 10031",
+      "location": "40.82435101120662, -73.95171348727644",
+      "description": "Unit 11",
       "bedrooms": 3,
       "bathrooms": 2,
       "database": "NYC",
@@ -391409,9 +392993,13 @@
   {
     "info": {
       "id": "e7cfe60d4e83",
+      "name": "The Cascadia",
       "city": "Singapore",
       "country": "Singapore",
       "area": 53.34244076983305,
+      "address": "935 Bukit Timah Rd, Singapore 589645",
+      "location": "1.3340671227875867, 103.78757696809879",
+      "description": "Unit 1",
       "bedrooms": 2,
       "bathrooms": 2,
       "database": "Singapore",
@@ -392514,9 +394102,13 @@
   {
     "info": {
       "id": "1469df358d03",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 73.3154917775458,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "default",
@@ -392888,9 +394480,13 @@
   {
     "info": {
       "id": "7cd87d47c6d4",
+      "name": "Eagle West",
       "city": "Brooklyn",
       "country": "USA",
       "area": 106.24462560764005,
+      "address": "1 Eagle St, NY 11222",
+      "location": "40.7350144721631, -73.96095842220248",
+      "description": "Unit 612",
       "bedrooms": 3,
       "bathrooms": 2,
       "database": "NYC",
@@ -394277,9 +395873,13 @@
   {
     "info": {
       "id": "dee0516105bb",
+      "name": "Columbus Circle",
       "city": "New York",
       "country": "USA",
       "area": 171.95010051323334,
+      "address": "1 W 60th St, New York, NY 10023",
+      "location": "40.769362762050676, -73.98271971336828",
+      "description": "na",
       "bedrooms": 4,
       "bathrooms": 4,
       "database": "NYC",
@@ -395970,9 +397570,13 @@
   {
     "info": {
       "id": "d48f3b84aa77",
+      "name": "Escher Terraces",
       "city": "Zurich",
       "country": "Switzerland",
       "area": 143.9354565739486,
+      "address": "Hardturmstrasse 7, 8005 Z\u00fcrich",
+      "location": "47.39125635643386, 8.51966234429895",
+      "description": "E2A 2013 - Escher Terraces Residential High-Rise",
       "bedrooms": 2,
       "bathrooms": 2,
       "database": "Zurich",
@@ -397080,9 +398684,13 @@
   {
     "info": {
       "id": "f99ca17940c8",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 37.43595009078592,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 0,
       "bathrooms": 1,
       "database": "default",
@@ -397826,9 +399434,13 @@
   {
     "info": {
       "id": "44cb5ae1dfe8",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 36.84475674550676,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 0,
       "bathrooms": 1,
       "database": "default",
@@ -398323,9 +399935,13 @@
   {
     "info": {
       "id": "d2ae2f9d82c4",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 52.74615184196746,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "default",
@@ -399313,9 +400929,13 @@
   {
     "info": {
       "id": "3abaa276f30e",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 105.97917481984099,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 2,
       "bathrooms": 1,
       "database": "default",
@@ -400133,9 +401753,13 @@
   {
     "info": {
       "id": "d20d5f3f63b9",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 87.60074997039119,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 2,
       "bathrooms": 2,
       "database": "default",
@@ -401214,9 +402838,13 @@
   {
     "info": {
       "id": "108c76e07a9c",
+      "name": "na",
       "city": "Zurich",
       "country": "Switzerland",
       "area": 65.8329854698386,
+      "address": "na",
+      "location": "47.40339622285793, 8.604245692901165",
+      "description": "Gut Schoepp 2023 - HeidiAbel Competition",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "Zurich",
@@ -402047,9 +403675,13 @@
   {
     "info": {
       "id": "3febd59224c6",
+      "name": "Edwin M. Lee Apartments",
       "city": "San Francisco",
       "country": "USA",
       "area": 45.77552515006391,
+      "address": "1150 3rd St CA 94158",
+      "location": "37.773303569885115, -122.39002774862479",
+      "description": "Unit 1",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "bay area affordable housing",
@@ -402834,9 +404466,13 @@
   {
     "info": {
       "id": "8935e24e1e9a",
+      "name": "na",
       "city": "Zurich",
       "country": "Switzerland",
       "area": 126.2311664071749,
+      "address": "na",
+      "location": "47.37987291430379, 8.511064370136864",
+      "description": "Holzer Kobler 2005",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "Zurich",
@@ -403522,9 +405158,13 @@
   {
     "info": {
       "id": "2f2c89e6c35a",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 73.48371106516431,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "default",
@@ -404830,9 +406470,13 @@
   {
     "info": {
       "id": "b24ec06d8504",
+      "name": "Lake Grande",
       "city": "Singapore",
       "country": "Singapore",
       "area": 106.29260807516403,
+      "address": "Jurong Lake Link, #2-10, Singapore",
+      "location": "1.3459843342537077, 103.72480855440949",
+      "description": "na",
       "bedrooms": 3,
       "bathrooms": 1,
       "database": "Singapore",
@@ -405864,9 +407508,13 @@
   {
     "info": {
       "id": "acf36ec53b4b",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 40.24368731254681,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "default",
@@ -406468,9 +408116,13 @@
   {
     "info": {
       "id": "e78d3a1bc562",
+      "name": "Tassafaronga Village",
       "city": "Oakland",
       "country": "USA",
       "area": 111.12432759919466,
+      "address": "930 84th Ave CA94621",
+      "location": "37.749924861437705, -122.18563698143019",
+      "description": "Unit 3",
       "bedrooms": 3,
       "bathrooms": 2,
       "database": "bay area affordable housing",
@@ -407600,9 +409252,13 @@
   {
     "info": {
       "id": "ea59b906958a",
+      "name": "na",
       "city": "Zurich",
       "country": "Switzerland",
       "area": 81.27596376650035,
+      "address": "na",
+      "location": "47.37987291430379, 8.511064370136864",
+      "description": "Hardau Linard",
       "bedrooms": 2,
       "bathrooms": 2,
       "database": "Zurich",
@@ -408513,9 +410169,13 @@
   {
     "info": {
       "id": "d354081b5c5b",
+      "name": "Grammercy",
       "city": "New York",
       "country": "USA",
       "area": 35.51009115515626,
+      "address": "2 Lexington Ave NY10010",
+      "location": "40.725841483512085, -73.9998108026952",
+      "description": "Unit 20, 1990",
       "bedrooms": 0,
       "bathrooms": 1,
       "database": "NYC",
@@ -408995,9 +410655,13 @@
   {
     "info": {
       "id": "ed63c2425c15",
+      "name": "Carlton",
       "city": "Brooklyn",
       "country": "USA",
       "area": 58.24116349668111,
+      "address": "535 Carlton Ave NY11238",
+      "location": "40.681192441973316, -73.9707676643865",
+      "description": "Unit 9, 2020",
       "bedrooms": 2,
       "bathrooms": 1,
       "database": "NYC",
@@ -409910,9 +411574,13 @@
   {
     "info": {
       "id": "4db42629bae7",
+      "name": "Coliseum Place",
       "city": "Oakland",
       "country": "USA",
       "area": 85.21686139303347,
+      "address": "805 71st Ave CA94621",
+      "location": "37.75562225033517, -122.19520054974079",
+      "description": "Unit 4",
       "bedrooms": 2,
       "bathrooms": 1,
       "database": "bay area affordable housing",
@@ -410571,9 +412239,13 @@
   {
     "info": {
       "id": "89903807edf8",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 50.929159136696484,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "default",
@@ -411454,9 +413126,13 @@
   {
     "info": {
       "id": "87a7ecd1f030",
+      "name": "40 W 77",
       "city": "New York",
       "country": "USA",
       "area": 88.81649147367716,
+      "address": "40 W 77th St, NY 10024",
+      "location": "40.78004218490692, -73.9754430549264",
+      "description": "Unit 6B",
       "bedrooms": 3,
       "bathrooms": 2,
       "database": "NYC",
@@ -412939,9 +414615,13 @@
   {
     "info": {
       "id": "a19c37f955f5",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 60.39649750439471,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "default",
@@ -414125,9 +415805,13 @@
   {
     "info": {
       "id": "035857a4a528",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 108.36383464511698,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 4,
       "bathrooms": 3,
       "database": "default",
@@ -415673,9 +417357,13 @@
   {
     "info": {
       "id": "3208f7b9e0c0",
+      "name": "Edwin M. Lee Apartments",
       "city": "San Francisco",
       "country": "USA",
       "area": 34.93025449386914,
+      "address": "1150 3rd St CA 94158",
+      "location": "37.773303569885115, -122.39002774862479",
+      "description": "Unit 8",
       "bedrooms": 0,
       "bathrooms": 1,
       "database": "bay area affordable housing",
@@ -416366,9 +418054,13 @@
   {
     "info": {
       "id": "9f9917a2a833",
+      "name": "Hoyt",
       "city": "Brooklyn",
       "country": "USA",
       "area": 124.85936374254743,
+      "address": "11 Hoyt St, NY 11201",
+      "location": "40.689847208096445, -73.98495875798099",
+      "description": "Unit 41G",
       "bedrooms": 3,
       "bathrooms": 2,
       "database": "NYC",
@@ -418399,9 +420091,13 @@
   {
     "info": {
       "id": "dd2dbd99ef06",
+      "name": "74 1st Place",
       "city": "Brooklyn",
       "country": "USA",
       "area": 131.25056540896185,
+      "address": "74 1st Place, NY 11231",
+      "location": "40.68115040388142, -74.0007404171332",
+      "description": "Unit 2",
       "bedrooms": 3,
       "bathrooms": 2,
       "database": "NYC",
@@ -419296,9 +420992,13 @@
   {
     "info": {
       "id": "a6e05742cbd8",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 32.768177789842234,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "default",
@@ -419767,9 +421467,13 @@
   {
     "info": {
       "id": "0c0d7edf9231",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 64.40472800398581,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 0,
       "bathrooms": 1,
       "database": "default",
@@ -420365,9 +422069,13 @@
   {
     "info": {
       "id": "6cfb36c4ba39",
+      "name": "Riviere",
       "city": "Singapore",
       "country": "Singapore",
       "area": 80.76004247669334,
+      "address": "3 Jiak Kim St, #1, Singapore 169423",
+      "location": "1.2917511894850695, 103.83488711735906",
+      "description": "na2",
       "bedrooms": 3,
       "bathrooms": 2,
       "database": "Singapore",
@@ -421621,9 +423329,13 @@
   {
     "info": {
       "id": "8dd7c3a08744",
+      "name": "Tampines Green Jade HDB",
       "city": "Singapore",
       "country": "Singapore",
       "area": 105.88759278703765,
+      "address": "956A Tampines St. 96, Singapore 521956",
+      "location": "1.3418104198447176, 103.93509666751798",
+      "description": "Unit 5",
       "bedrooms": 3,
       "bathrooms": 2,
       "database": "Singapore",
@@ -422613,9 +424325,13 @@
   {
     "info": {
       "id": "605c750a948f",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 75.61114606932514,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 2,
       "bathrooms": 1,
       "database": "default",
@@ -423940,9 +425656,13 @@
   {
     "info": {
       "id": "77f1e9d15753",
+      "name": "Edwin M. Lee Apartments",
       "city": "San Francisco",
       "country": "USA",
       "area": 100.58924153358385,
+      "address": "1150 3rd St CA 94158",
+      "location": "37.773303569885115, -122.39002774862479",
+      "description": "Unit 4",
       "bedrooms": 3,
       "bathrooms": 2,
       "database": "bay area affordable housing",
@@ -425285,9 +427005,13 @@
   {
     "info": {
       "id": "60d696305c0f",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 65.84659683894822,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "default",
@@ -426568,9 +428292,13 @@
   {
     "info": {
       "id": "90711518b586",
+      "name": "Hope Street",
       "city": "Brooklyn",
       "country": "USA",
       "area": 66.23174666057457,
+      "address": "8 Marcy Ave, NY11211",
+      "location": "40.713681773483636, -73.95484711339975",
+      "description": "Unit 2, 2020",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "NYC",
@@ -427340,9 +429068,13 @@
   {
     "info": {
       "id": "1b628dfd7cdd",
+      "name": "Hope Street",
       "city": "Brooklyn",
       "country": "USA",
       "area": 71.48377299566346,
+      "address": "8 Marcy Ave, NY11211",
+      "location": "40.713681773483636, -73.95484711339975",
+      "description": "Unit 19, 2020",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "NYC",
@@ -428242,9 +429974,13 @@
   {
     "info": {
       "id": "ecb1b37f0507",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 74.14097821145816,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 2,
       "bathrooms": 1,
       "database": "default",
@@ -428718,9 +430454,13 @@
   {
     "info": {
       "id": "0cf7e8465d05",
+      "name": "Bellslip",
       "city": "Brooklyn",
       "country": "USA",
       "area": 123.04599879971647,
+      "address": "1 Bell Slip NY11222",
+      "location": "40.73676384793552, -73.959035984345",
+      "description": "Unit 26g",
       "bedrooms": 3,
       "bathrooms": 2,
       "database": "NYC",
@@ -429886,9 +431626,13 @@
   {
     "info": {
       "id": "cb9cf40c4126",
+      "name": "400 E",
       "city": "New York",
       "country": "USA",
       "area": 174.9080807402861,
+      "address": "400 E 67th St, NY10065",
+      "location": "40.7644507600072, -73.95793531937176",
+      "description": "Unit 14B",
       "bedrooms": 3,
       "bathrooms": 3,
       "database": "NYC",
@@ -432608,9 +434352,13 @@
   {
     "info": {
       "id": "e5cf90e6cc77",
+      "name": "Midway Village",
       "city": "Daly City",
       "country": "USA",
       "area": 57.515674458423746,
+      "address": "8 Partridge Street CA94014",
+      "location": "37.86973578557513, -122.25656720172009",
+      "description": "Unit 3",
       "bedrooms": 3,
       "bathrooms": 2,
       "database": "bay area affordable housing",
@@ -433890,9 +435638,13 @@
   {
     "info": {
       "id": "af60046a5297",
+      "name": "Matara",
       "city": "Zurich",
       "country": "Switzerland",
       "area": 77.55515977946925,
+      "address": "na",
+      "location": "47.389741586966366, 8.493961275555224",
+      "description": "Matara",
       "bedrooms": 2,
       "bathrooms": 1,
       "database": "Zurich",
@@ -434934,9 +436686,13 @@
   {
     "info": {
       "id": "2568abeb9db9",
+      "name": "na",
       "city": "Zurich",
       "country": "Switzerland",
       "area": 76.00369610678172,
+      "address": "na",
+      "location": "47.37987291430379, 8.511064370136864",
+      "description": "Competition Goldacker Goldstueck",
       "bedrooms": 2,
       "bathrooms": 1,
       "database": "Zurich",
@@ -435874,9 +437630,13 @@
   {
     "info": {
       "id": "405812a73232",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 34.214942836955686,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 0,
       "bathrooms": 1,
       "database": "default",
@@ -436773,9 +438533,13 @@
   {
     "info": {
       "id": "99bc7be2f48d",
+      "name": "Hope Street",
       "city": "Brooklyn",
       "country": "USA",
       "area": 71.48377299567073,
+      "address": "8 Marcy Ave, NY11211",
+      "location": "40.713681773483636, -73.95484711339975",
+      "description": "Unit 4, 2020",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "NYC",
@@ -437675,9 +439439,13 @@
   {
     "info": {
       "id": "4154a15dcb38",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 44.373215419420454,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 0,
       "bathrooms": 1,
       "database": "default",
@@ -438475,9 +440243,13 @@
   {
     "info": {
       "id": "b2281820e6e0",
+      "name": "Grammercy",
       "city": "New York",
       "country": "USA",
       "area": 112.52902441084734,
+      "address": "2 Lexington Ave NY10010",
+      "location": "40.725841483512085, -73.9998108026952",
+      "description": "Unit 8, 1990",
       "bedrooms": 2,
       "bathrooms": 1,
       "database": "NYC",
@@ -439368,9 +441140,13 @@
   {
     "info": {
       "id": "6be828ec314a",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 79.92546246232773,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 2,
       "bathrooms": 1,
       "database": "default",
@@ -440526,9 +442302,13 @@
   {
     "info": {
       "id": "b9e2f5d5f233",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 47.83567654093666,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "default",
@@ -441009,9 +442789,13 @@
   {
     "info": {
       "id": "1cf38d38eed9",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 128.00560988304258,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 2,
       "bathrooms": 2,
       "database": "default",
@@ -442366,9 +444150,13 @@
   {
     "info": {
       "id": "d8580dcac318",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 57.39623370026716,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "default",
@@ -443455,9 +445243,13 @@
   {
     "info": {
       "id": "850c5f026e59",
+      "name": "Ghim Mo",
       "city": "Singapore",
       "country": "Singapore",
       "area": 63.112773046417715,
+      "address": "301 Dover Rd, Singapore 139644",
+      "location": "1.3077927943348722, 103.77876510548577",
+      "description": "2022 Unit 1",
       "bedrooms": 2,
       "bathrooms": 2,
       "database": "Singapore",
@@ -444481,9 +446273,13 @@
   {
     "info": {
       "id": "42ecafe620a1",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 58.46911922737672,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 0,
       "bathrooms": 1,
       "database": "default",
@@ -445259,9 +447055,13 @@
   {
     "info": {
       "id": "d0581289db32",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 35.44249397927577,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "default",
@@ -445975,9 +447775,13 @@
   {
     "info": {
       "id": "4e9ff590c8cf",
+      "name": "Eunos Court HDB",
       "city": "Singapore",
       "country": "Singapore",
       "area": 93.29542339072759,
+      "address": "38A Eunos Rd 2, Singapore 401038",
+      "location": "1.3214423125745771, 103.90000409531972",
+      "description": "Unit F",
       "bedrooms": 3,
       "bathrooms": 2,
       "database": "Singapore",
@@ -447197,9 +449001,13 @@
   {
     "info": {
       "id": "01239f859971",
+      "name": "Westminster",
       "city": "Brooklyn",
       "country": "USA",
       "area": 95.73610887511859,
+      "address": "15 Westminster Rd NY11218",
+      "location": "40.64868374201654, -73.96840929684556",
+      "description": "Unit 1",
       "bedrooms": 3,
       "bathrooms": 1,
       "database": "NYC",
@@ -448187,9 +449995,13 @@
   {
     "info": {
       "id": "8130e3c163c3",
+      "name": "Tampines Green Jade HDB",
       "city": "Singapore",
       "country": "Singapore",
       "area": 171.57792173860798,
+      "address": "956A Tampines St. 96, Singapore 521956",
+      "location": "1.3418104198447176, 103.93509666751798",
+      "description": "Unit 20",
       "bedrooms": 3,
       "bathrooms": 2,
       "database": "Singapore",
@@ -449629,9 +451441,13 @@
   {
     "info": {
       "id": "0101f73f071a",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 43.796628587573295,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "default",
@@ -450423,9 +452239,13 @@
   {
     "info": {
       "id": "4fb0131f8980",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 61.36916794037725,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 0,
       "bathrooms": 1,
       "database": "default",
@@ -451011,9 +452831,13 @@
   {
     "info": {
       "id": "b3308a39e87e",
+      "name": "Bartley Beacon HDB",
       "city": "Singapore",
       "country": "Singapore",
       "area": 90.72977555639,
+      "address": "223A Mount Vernon Rd, Singapore",
+      "location": "1.3420330921201462, 103.8795973695313",
+      "description": "Unit 6",
       "bedrooms": 3,
       "bathrooms": 2,
       "database": "Singapore",
@@ -452043,9 +453867,13 @@
   {
     "info": {
       "id": "0c6cde2b3240",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 50.93379450099482,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "default",
@@ -453080,9 +454908,13 @@
   {
     "info": {
       "id": "22c3332aeb40",
+      "name": "Delmas Park",
       "city": "San Jose",
       "country": "USA",
       "area": 32.02720797306392,
+      "address": "350 Barack Obama Blvd CA 95126",
+      "location": "37.32444331665218, -121.89993925627509",
+      "description": "Unit 5",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "bay area affordable housing",
@@ -453575,9 +455407,13 @@
   {
     "info": {
       "id": "4de69c3ba74f",
+      "name": "Kalkbreite",
       "city": "Zurich",
       "country": "Switzerland",
       "area": 54.69326129881665,
+      "address": "Kalkbreitestrasse 6, CH-8003",
+      "location": "47.37437299691268, 8.520372810133646",
+      "description": "Mueller Sigrist 2014",
       "bedrooms": 0,
       "bathrooms": 1,
       "database": "Zurich",
@@ -453962,9 +455798,13 @@
   {
     "info": {
       "id": "003e222a70b8",
+      "name": "Hope Street",
       "city": "Brooklyn",
       "country": "USA",
       "area": 39.498576192934706,
+      "address": "8 Marcy Ave, NY11211",
+      "location": "40.713681773483636, -73.95484711339975",
+      "description": "Unit 17, 2020",
       "bedrooms": 0,
       "bathrooms": 1,
       "database": "NYC",
@@ -454734,9 +456574,13 @@
   {
     "info": {
       "id": "c6d88ab2d25b",
+      "name": "One Columbus Place",
       "city": "New York",
       "country": "USA",
       "area": 105.93720724211562,
+      "address": "One Columbus Place NY10019",
+      "location": "40.76942421621948, -73.98544718702209",
+      "description": "Unit N19B",
       "bedrooms": 3,
       "bathrooms": 2,
       "database": "NYC",
@@ -455849,9 +457693,13 @@
   {
     "info": {
       "id": "8da68397eb2d",
+      "name": "Serenity Senior",
       "city": "Palo Alto",
       "country": "USA",
       "area": 66.45851698319893,
+      "address": "2358 University Ave CA 94303",
+      "location": "37.47000701582507, -122.14019602637741",
+      "description": "Unit 1",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "bay area affordable housing",
@@ -456773,9 +458621,13 @@
   {
     "info": {
       "id": "b90f24409ce9",
+      "name": "La Avenida",
       "city": "Mountain View",
       "country": "USA",
       "area": 89.40152959353873,
+      "address": "1188 Armand Dr CA94043",
+      "location": "37.413676777948154, -122.0728040360178",
+      "description": "Unit 1",
       "bedrooms": 2,
       "bathrooms": 1,
       "database": "bay area affordable housing",
@@ -457773,9 +459625,13 @@
   {
     "info": {
       "id": "24496842e478",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 58.216262104202684,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "default",
@@ -458560,9 +460416,13 @@
   {
     "info": {
       "id": "fd35f9e0d0cd",
+      "name": "Wohnsiedlung Hardau I",
       "city": "Zurich",
       "country": "Switzerland",
       "area": 96.593513648113,
+      "address": "Hardstrasse 27, 8004 Z\u00fcrich, Switzerland",
+      "location": "47.37987291430379, 8.511064370136864",
+      "description": "Competition Entry Breakfast",
       "bedrooms": 3,
       "bathrooms": 2,
       "database": "Zurich",
@@ -459632,9 +461492,13 @@
   {
     "info": {
       "id": "f07516952dae",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 57.23499535116408,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "default",
@@ -460649,9 +462513,13 @@
   {
     "info": {
       "id": "521bd9e6121f",
+      "name": "Steinacker",
       "city": "Zurich",
       "country": "Switzerland",
       "area": 122.20531885803211,
+      "address": "na",
+      "location": "47.37987291430379, 8.511064370136864",
+      "description": "Hasler Schlatter",
       "bedrooms": 3,
       "bathrooms": 1,
       "database": "Zurich",
@@ -462057,9 +463925,13 @@
   {
     "info": {
       "id": "279d7c1ee745",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 40.18518308002052,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "default",
@@ -462670,9 +464542,13 @@
   {
     "info": {
       "id": "ce7bdb583c8c",
+      "name": "Tassafaronga Village",
       "city": "Oakland",
       "country": "USA",
       "area": 66.08436598650587,
+      "address": "930 84th Ave CA94621",
+      "location": "37.749924861437705, -122.18563698143019",
+      "description": "Unit 2",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "bay area affordable housing",
@@ -463279,9 +465155,13 @@
   {
     "info": {
       "id": "0ab36050a983",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 49.79396722324346,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "default",
@@ -464085,9 +465965,13 @@
   {
     "info": {
       "id": "c4db0ef1020d",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 44.47802234733959,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "default",
@@ -464831,9 +466715,13 @@
   {
     "info": {
       "id": "cb1dfb22511e",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 45.03054673550271,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 0,
       "bathrooms": 1,
       "database": "default",
@@ -465500,9 +467388,13 @@
   {
     "info": {
       "id": "6b415ddf768d",
+      "name": "Ironhorse at Central Station",
       "city": "Oakland",
       "country": "USA",
       "area": 107.49360780647112,
+      "address": "1801 14th St CA 94607",
+      "location": "37.81365051639731, -122.29937772843857",
+      "description": "Unit 6",
       "bedrooms": 2,
       "bathrooms": 1,
       "database": "bay area affordable housing",
@@ -466495,9 +468387,13 @@
   {
     "info": {
       "id": "ac385ebc0823",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 38.18239994535579,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "default",
@@ -466980,9 +468876,13 @@
   {
     "info": {
       "id": "1659a8a05b3d",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 37.469464225565545,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 2,
       "bathrooms": 1,
       "database": "default",
@@ -467727,9 +469627,13 @@
   {
     "info": {
       "id": "c011c6017b93",
+      "name": "Eunos Court HDB",
       "city": "Singapore",
       "country": "Singapore",
       "area": 115.40175765029562,
+      "address": "38A Eunos Rd 2, Singapore 401038",
+      "location": "1.3214423125745771, 103.90000409531972",
+      "description": "Unit H",
       "bedrooms": 3,
       "bathrooms": 2,
       "database": "Singapore",
@@ -469081,9 +470985,13 @@
   {
     "info": {
       "id": "6925d2e75bfa",
+      "name": "Kalkbreite",
       "city": "Zurich",
       "country": "Switzerland",
       "area": 54.794086799549405,
+      "address": "Kalkbreitestrasse 6, CH-8003",
+      "location": "47.37437299691268, 8.520372810133646",
+      "description": "Mueller Sigrist 2014",
       "bedrooms": 0,
       "bathrooms": 1,
       "database": "Zurich",
@@ -469594,9 +471502,13 @@
   {
     "info": {
       "id": "b89b2e7b1eec",
+      "name": "Grammercy",
       "city": "New York",
       "country": "USA",
       "area": 35.211641025714925,
+      "address": "2 Lexington Ave NY10010",
+      "location": "40.725841483512085, -73.9998108026952",
+      "description": "Unit 2, 1990",
       "bedrooms": 0,
       "bathrooms": 1,
       "database": "NYC",
@@ -470064,9 +471976,13 @@
   {
     "info": {
       "id": "e5a1631e8423",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 44.98227695201895,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 0,
       "bathrooms": 1,
       "database": "default",
@@ -470971,9 +472887,13 @@
   {
     "info": {
       "id": "6e94369db899",
+      "name": "La Avenida",
       "city": "Mountain View",
       "country": "USA",
       "area": 54.93051508021017,
+      "address": "1188 Armand Dr CA94043",
+      "location": "37.413676777948154, -122.0728040360178",
+      "description": "Unit 3",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "bay area affordable housing",
@@ -471458,9 +473378,13 @@
   {
     "info": {
       "id": "d20b27644a6e",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 69.847010325695,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 2,
       "bathrooms": 1,
       "database": "default",
@@ -471851,9 +473775,13 @@
   {
     "info": {
       "id": "69913cc53554",
+      "name": "na",
       "city": "Zurich",
       "country": "Switzerland",
       "area": 58.45769535691943,
+      "address": "na",
+      "location": "47.40339622285793, 8.604245692901165",
+      "description": "Kolbenacker",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "Zurich",
@@ -472673,9 +474601,13 @@
   {
     "info": {
       "id": "ef30d5296b37",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 96.27936822232408,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 2,
       "bathrooms": 2,
       "database": "default",
@@ -473768,9 +475700,13 @@
   {
     "info": {
       "id": "b4c52e9ed130",
+      "name": "Tampines Green Jade HDB",
       "city": "Singapore",
       "country": "Singapore",
       "area": 116.52473815794474,
+      "address": "956A Tampines St. 96, Singapore 521956",
+      "location": "1.3418104198447176, 103.93509666751798",
+      "description": "Unit 2",
       "bedrooms": 3,
       "bathrooms": 2,
       "database": "Singapore",
@@ -474994,9 +476930,13 @@
   {
     "info": {
       "id": "6f85651c2a23",
+      "name": "Sango Court",
       "city": "Milpitas",
       "country": "USA",
       "area": 103.5662170367832,
+      "address": "355 Sango Ct CA95035",
+      "location": "37.40722498001695, -121.89323107073375",
+      "description": "Right Unit 5",
       "bedrooms": 2,
       "bathrooms": 1,
       "database": "bay area affordable housing",
@@ -475665,9 +477605,13 @@
   {
     "info": {
       "id": "18716e944165",
+      "name": "Grammercy",
       "city": "New York",
       "country": "USA",
       "area": 63.94340857915813,
+      "address": "2 Lexington Ave NY10010",
+      "location": "40.725841483512085, -73.9998108026952",
+      "description": "Unit 17, 1990",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "NYC",
@@ -476176,9 +478120,13 @@
   {
     "info": {
       "id": "77f5766b34f5",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 48.707790229722306,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "default",
@@ -477167,9 +479115,13 @@
   {
     "info": {
       "id": "15626cd8f9fe",
+      "name": "na",
       "city": "Zurich",
       "country": "Switzerland",
       "area": 119.98927868617466,
+      "address": "na",
+      "location": "47.37987291430379, 8.511064370136864",
+      "description": "Competition Goldacker Kelim",
       "bedrooms": 2,
       "bathrooms": 1,
       "database": "Zurich",
@@ -478001,9 +479953,13 @@
   {
     "info": {
       "id": "ac63dad60bbc",
+      "name": "The Gazania",
       "city": "Singapore",
       "country": "Singapore",
       "area": 47.519807828190096,
+      "address": "5 How Sun Dr, Singapore 538527",
+      "location": "1.3447623211331643, 103.8787779361989",
+      "description": "na",
       "bedrooms": 2,
       "bathrooms": 1,
       "database": "Singapore",
@@ -479040,9 +480996,13 @@
   {
     "info": {
       "id": "39d758ad62bb",
+      "name": "na",
       "city": "Zurich",
       "country": "Switzerland",
       "area": 113.77138087287312,
+      "address": "na",
+      "location": "47.40339622285793, 8.604245692901165",
+      "description": "LutjensPadmanabhan 2018 - Multi-family Residence in Zurich",
       "bedrooms": 4,
       "bathrooms": 2,
       "database": "Zurich",
@@ -480216,9 +482176,13 @@
   {
     "info": {
       "id": "48760c3c4e86",
+      "name": "Sango Court",
       "city": "Milpitas",
       "country": "USA",
       "area": 71.31193483570678,
+      "address": "355 Sango Ct CA95035",
+      "location": "37.40722498001695, -121.89323107073375",
+      "description": "Right Unit 7",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "bay area affordable housing",
@@ -480693,9 +482657,13 @@
   {
     "info": {
       "id": "fab3fd1c35b5",
+      "name": "Ironhorse at Central Station",
       "city": "Oakland",
       "country": "USA",
       "area": 118.05898483142664,
+      "address": "1801 14th St CA 94607",
+      "location": "37.81365051639731, -122.29937772843857",
+      "description": "Unit 1",
       "bedrooms": 3,
       "bathrooms": 2,
       "database": "bay area affordable housing",
@@ -482618,9 +484586,13 @@
   {
     "info": {
       "id": "903a92575a0d",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 34.40208705977801,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 1,
       "bathrooms": 1,
       "database": "default",
@@ -483101,9 +485073,13 @@
   {
     "info": {
       "id": "65264b130fd4",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 36.55911824077553,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 0,
       "bathrooms": 1,
       "database": "default",
@@ -483893,9 +485869,13 @@
   {
     "info": {
       "id": "ae840da6464e",
+      "name": "Kalkbreite",
       "city": "Zurich",
       "country": "Switzerland",
       "area": 139.8934572860744,
+      "address": "Kalkbreitestrasse 6, CH-8003",
+      "location": "47.37437299691268, 8.520372810133646",
+      "description": "Mueller Sigrist 2014",
       "bedrooms": 4,
       "bathrooms": 2,
       "database": "Zurich",
@@ -484911,9 +486891,13 @@
   {
     "info": {
       "id": "33804ffbc2ea",
+      "name": "default",
       "city": "default",
       "country": "default",
       "area": 92.01543881443448,
+      "address": "default",
+      "location": "default",
+      "description": "default",
       "bedrooms": 2,
       "bathrooms": 1,
       "database": "default",
@@ -485948,9 +487932,13 @@
   {
     "info": {
       "id": "6d13a0e2bd8f",
+      "name": "516 W",
       "city": "New York",
       "country": "USA",
       "area": 67.28969522600528,
+      "address": "516 W 136th St NY 10031",
+      "location": "40.82015146752575, -73.95316193858719",
+      "description": "Unit 2",
       "bedrooms": 3,
       "bathrooms": 1,
       "database": "NYC",
@@ -487050,9 +489038,13 @@
   {
     "info": {
       "id": "fb376d1cff61",
+      "name": "Kalkbreite",
       "city": "Zurich",
       "country": "Switzerland",
       "area": 118.93125788781617,
+      "address": "Kalkbreitestrasse 6, CH-8003",
+      "location": "47.37437299691268, 8.520372810133646",
+      "description": "Mueller Sigrist 2014",
       "bedrooms": 3,
       "bathrooms": 1,
       "database": "Zurich",
@@ -487858,9 +489850,13 @@
   {
     "info": {
       "id": "91d3bd99a13b",
+      "name": "Eunos Court HDB",
       "city": "Singapore",
       "country": "Singapore",
       "area": 88.93337727133985,
+      "address": "38A Eunos Rd 2, Singapore 401038",
+      "location": "1.3214423125745771, 103.90000409531972",
+      "description": "Unit K",
       "bedrooms": 3,
       "bathrooms": 2,
       "database": "Singapore",
@@ -489231,9 +491227,13 @@
   {
     "info": {
       "id": "19bf4d7edf16",
+      "name": "23 Greene",
       "city": "New York",
       "country": "USA",
       "area": 276.51532396971015,
+      "address": "23 Greene St, NY 10013",
+      "location": "40.72143592404041, -74.00284830921683",
+      "description": "na",
       "bedrooms": 4,
       "bathrooms": 5,
       "database": "NYC",
