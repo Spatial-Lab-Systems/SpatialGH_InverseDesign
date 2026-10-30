@@ -2,12 +2,11 @@
 
 ![Graphical abstract](imgs/graphical%20abstract.png)
 
-This is the software repo for our paper on floorplan inverse design. It contains a Grasshopper plugin (`SpatialGH_InverseDesign.zip`), two example definitions (`InverseDesign_walkthrough.gh` and `InverseDesign_examples.gh`), and the data they rely on (`database/`).
-The plugin is available on Windows x64. The current package (2026-10-22) targets Rhino 8 running .NET 8 and includes the faster reference search and inverse-design workflows.
+This is the software repo for our paper on floorplan inverse design. It contains a Grasshopper plugin, example definitions, and related data.
+The plugin is available on Windows x64.
 
 ## Installation
 
-When updating, close Rhino and replace the existing `SpatialGH_InverseDesign` plugin folder with the newly extracted folder. Keep the matching `SpatialGH.gha`, `SpatialOS.dll` and dependency DLLs together.
 
 1. **Find your Grasshopper components folder.** In Rhino, open Grasshopper, then go to `File > Special Folders > Components Folder`. This is normally:
    ```
@@ -23,36 +22,41 @@ When updating, close Rhino and replace the existing `SpatialGH_InverseDesign` pl
    Libraries\SpatialGH_InverseDesign\... (dependency DLLs)
    ```
 
-
-
 4. **Restart Rhino/Grasshopper.** The plugin's components should now appear on the Grasshopper ribbon.
 
-5. **Sign in and activate.** Add the `Spatial Sign In` component (`Spatial > Registration`), press **Activate**, and complete the browser sign-in with an activated Spatial account. This replaces the older email/license-key workflow.
+5. **Sign in and activate.** Add the `Spatial Sign In` component and complete the browser sign-in with an activated Spatial account.
 
 ## Setting the database path
 
-Both example definitions need to know where the data lives:
+#### Furniture database
+1. Open `Spatial_bacis.gh`in Grasshopper.
+2. Find the yellow panel with "Furniture JSON".
+3. Set it to the `database\furniture4.json` path in this repo, e.g.:
+   ```
+   C:\Project\SpatialGH_InverseDesign\database\furniture4.json
+   ```
 
-1. Open `InverseDesign_walkthrough.gh` or `InverseDesign_examples.gh` in Grasshopper.
-2. Find the input that points to the database folder (a path/string input feeding the plugin's database-loading component).
-3. Set it to the `database/` folder of **this** repo, given as a folder path (not a specific file inside it), e.g.:
+#### Inverse design database
+
+1. Open `InverseDesign_walkthrough.gh` or `InverseDesign_examples.gh` in Grasshopper. `InverseDesign_examples.gh` needs to open with `InverseDesign_examples.3dm` in rhino.
+2. Find the panel that points to the database folder (a yellow panel marked as "Folder containing the database").
+3. Set it to the `database/` folder of **this** repo, given as a folder path, e.g.:
    ```
    C:\Project\SpatialGH_InverseDesign\database
    ```
+   Keep the following files together in the database folder:
 
-Keep the following files together in the database folder:
+   - `database.json`
+   - `database.search-index.json`
+   - `boundary_score.json`
+   - `srds_score.json`
 
-- `database.json`
-- `database.search-index.json`
-- `boundary_score.json`
-- `srds_score.json`
-
-The prebuilt search index enables a fast first search and works after copying the folder to another machine. If the database changes or the index is missing, the plugin rebuilds the index automatically; that first search takes longer. When publishing an updated database, run one search first and include the refreshed index. `test.json` is also included as sample data.
 
 ## Example files
 
-- **`InverseDesign_walkthrough.gh`**: walks through all of the plugin's functionality: the inverse design loop, inverse design with filtering, adding a room, and removing a room. Watch this [tutorial video](https://youtu.be/sGq6Yk5CWIo) to see how it works.
-- **`InverseDesign_examples.gh`**: shows the results produced for several different inputs on the same boundary. This file references geometry stored in `InverseDesign_examples.3dm`.
+- **`Spatial_basics.gh` & `Spatial_basics.3dm`**: walks through the plugin's basic functions, including loading an apartment, basic fitting functions, editing floorplans from our web UI, and fitting furniture. Watch this [tutorial video](https://www.youtube.com/watch?v=-96ackTkyMQ) to see how it works.
+- **`InverseDesign_walkthrough.gh`**: walks through the plugin's functionality related to inverse design: the inverse design loop, inverse design with filtering, adding a room, and removing a room. Watch this [tutorial video](https://youtu.be/sGq6Yk5CWIo) to see how it works.
+- **`InverseDesign_examples.gh` & `InverseDesign_examples.3dm`**: shows the results produced for several different inputs on the same boundary. 
 
   ![Examples](imgs/examples.png)
 
