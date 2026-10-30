@@ -31,7 +31,7 @@ Wang, S., & Weber, R. E. (2027). Inverse design of architectural floorplans with
 ## Setting the database path
 
 #### Furniture database
-1. Open `Spatial_bacis.gh`in Grasshopper.
+1. Open `Spatial_basics.gh` in Grasshopper.
 2. Find the yellow panel with "Furniture JSON".
 3. Set it to the `database\furniture4.json` path in this repo, e.g.:
    ```
