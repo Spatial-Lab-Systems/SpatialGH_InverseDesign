@@ -3,7 +3,9 @@
 ![Graphical abstract](imgs/graphical%20abstract.png)
 
 This is the software repo for our paper on floorplan inverse design. It contains a Grasshopper plugin, example definitions, and related data.
-The plugin is available on Windows x64.
+The plugin is available on Rhino 8 with Windows.
+
+Wang, S., & Weber, R. E. (2027). Inverse design of architectural floorplans with gradient-based optimization of binary subdivision graphs. *Automation in Construction, 193*, 107322. [https://doi.org/10.1016/j.autcon.2026.107322](https://doi.org/10.1016/j.autcon.2026.107322)
 
 ## Installation
 
