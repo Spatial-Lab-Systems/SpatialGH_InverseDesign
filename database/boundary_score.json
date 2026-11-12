@@ -1,0 +1,402 @@
+[
+  {
+    "id": "b48bc9b5cd41",
+    "convexity": 0.788318
+  },
+  {
+    "id": "4b184ec04b34",
+    "convexity": 0.648687
+  },
+  {
+    "id": "69d52ae96dbc",
+    "convexity": 0.772467
+  },
+  {
+    "id": "37766b4b3a7f",
+    "convexity": 0.806111
+  },
+  {
+    "id": "54151a22dd0b",
+    "convexity": 1.0
+  },
+  {
+    "id": "84dc97e27adc",
+    "convexity": 1.0
+  },
+  {
+    "id": "acad00beeda2",
+    "convexity": 1.0
+  },
+  {
+    "id": "822160ce7c48",
+    "convexity": 0.943616
+  },
+  {
+    "id": "c2b02e0bbc1c",
+    "convexity": 0.917829
+  },
+  {
+    "id": "da43d2f7d31e",
+    "convexity": 1.0
+  },
+  {
+    "id": "d509f756237d",
+    "convexity": 0.797099
+  },
+  {
+    "id": "c955d6625412",
+    "convexity": 0.806123
+  },
+  {
+    "id": "b706fe5b6305",
+    "convexity": 0.827976
+  },
+  {
+    "id": "b36a49ebd58e",
+    "convexity": 0.695266
+  },
+  {
+    "id": "2c420c0e6db3",
+    "convexity": 0.84301
+  },
+  {
+    "id": "e278ca6fb0e2",
+    "convexity": 0.73988
+  },
+  {
+    "id": "5694ec0c2051",
+    "convexity": 0.9404
+  },
+  {
+    "id": "618cbd878774",
+    "convexity": 0.860716
+  },
+  {
+    "id": "f911d3ef50a2",
+    "convexity": 0.661381
+  },
+  {
+    "id": "dc472d7d0653",
+    "convexity": 1.0
+  },
+  {
+    "id": "0b87d40d9a4c",
+    "convexity": 0.930899
+  },
+  {
+    "id": "a516ab8a6a9b",
+    "convexity": 1.0
+  },
+  {
+    "id": "51a04adab0fb",
+    "convexity": 0.957484
+  },
+  {
+    "id": "d8990780d632",
+    "convexity": 0.675391
+  },
+  {
+    "id": "94e75f1cb06c",
+    "convexity": 0.725061
+  },
+  {
+    "id": "719d8743ebbf",
+    "convexity": 0.876926
+  },
+  {
+    "id": "6e5e5c42e541",
+    "convexity": 0.917772
+  },
+  {
+    "id": "2b8aa75e2017",
+    "convexity": 0.737455
+  },
+  {
+    "id": "3a3929f82e1d",
+    "convexity": 0.9267
+  },
+  {
+    "id": "199bba6c9c6b",
+    "convexity": 1.0
+  },
+  {
+    "id": "1f4e988be0f8",
+    "convexity": 0.633399
+  },
+  {
+    "id": "c9d082fe8976",
+    "convexity": 1.0
+  },
+  {
+    "id": "03b9b348bbab",
+    "convexity": 0.646967
+  },
+  {
+    "id": "343a3dfe8bf7",
+    "convexity": 1.0
+  },
+  {
+    "id": "1073f48b968a",
+    "convexity": 0.951228
+  },
+  {
+    "id": "12dce4883440",
+    "convexity": 0.616546
+  },
+  {
+    "id": "209c3680aaa8",
+    "convexity": 0.767091
+  },
+  {
+    "id": "2d775d16b99a",
+    "convexity": 0.794005
+  },
+  {
+    "id": "9ae0d35cd513",
+    "convexity": 0.94672
+  },
+  {
+    "id": "877e35cfe92a",
+    "convexity": 0.767047
+  },
+  {
+    "id": "6e795ffb1688",
+    "convexity": 1.0
+  },
+  {
+    "id": "3551b470a20a",
+    "convexity": 0.861639
+  },
+  {
+    "id": "9db83e9ccaa7",
+    "convexity": 0.805452
+  },
+  {
+    "id": "252198ae16b7",
+    "convexity": 0.823492
+  },
+  {
+    "id": "0ad450b3a06e",
+    "convexity": 1.0
+  },
+  {
+    "id": "d51b6f0bc625",
+    "convexity": 0.829215
+  },
+  {
+    "id": "701ee4f77f76",
+    "convexity": 0.791604
+  },
+  {
+    "id": "edb212bdb79d",
+    "convexity": 0.804353
+  },
+  {
+    "id": "3bd505aa47e0",
+    "convexity": 0.884164
+  },
+  {
+    "id": "d21c5357acaf",
+    "convexity": 0.966553
+  },
+  {
+    "id": "39d037b8d55d",
+    "convexity": 1.0
+  },
+  {
+    "id": "bc76d1a936f3",
+    "convexity": 0.847054
+  },
+  {
+    "id": "8b9666e94b6c",
+    "convexity": 1.0
+  },
+  {
+    "id": "be569db49389",
+    "convexity": 0.776574
+  },
+  {
+    "id": "74bcb15869ff",
+    "convexity": 0.803679
+  },
+  {
+    "id": "e34d96962b30",
+    "convexity": 0.739424
+  },
+  {
+    "id": "2a520ffd8892",
+    "convexity": 0.75316
+  },
+  {
+    "id": "06e3615760db",
+    "convexity": 0.786903
+  },
+  {
+    "id": "08496f731c75",
+    "convexity": 0.782303
+  },
+  {
+    "id": "82a0e56cdc71",
+    "convexity": 1.0
+  },
+  {
+    "id": "c81f283c1ad7",
+    "convexity": 0.713359
+  },
+  {
+    "id": "7a16583ea5a1",
+    "convexity": 0.823947
+  },
+  {
+    "id": "04ff772b6cc0",
+    "convexity": 0.822829
+  },
+  {
+    "id": "55a863c808f6",
+    "convexity": 0.886019
+  },
+  {
+    "id": "bcc6a8e86763",
+    "convexity": 0.767047
+  },
+  {
+    "id": "2ed1d2719aae",
+    "convexity": 1.0
+  },
+  {
+    "id": "e2166155eeb1",
+    "convexity": 0.623658
+  },
+  {
+    "id": "232812118a50",
+    "convexity": 0.975889
+  },
+  {
+    "id": "ec8ccdc5f394",
+    "convexity": 0.955795
+  },
+  {
+    "id": "d80d3c51945e",
+    "convexity": 0.956175
+  },
+  {
+    "id": "172dd29bfcb5",
+    "convexity": 0.976172
+  },
+  {
+    "id": "8322b975aa68",
+    "convexity": 0.878044
+  },
+  {
+    "id": "d7bbd44df0b9",
+    "convexity": 0.934085
+  },
+  {
+    "id": "d5d2f4a8dd50",
+    "convexity": 0.646775
+  },
+  {
+    "id": "1b77a6b769a2",
+    "convexity": 0.935701
+  },
+  {
+    "id": "522b4eb6f9c3",
+    "convexity": 1.0
+  },
+  {
+    "id": "2df4af6587c5",
+    "convexity": 0.766836
+  },
+  {
+    "id": "b0e484624a98",
+    "convexity": 1.0
+  },
+  {
+    "id": "d48f3b84aa77",
+    "convexity": 0.736134
+  },
+  {
+    "id": "44cb5ae1dfe8",
+    "convexity": 1.0
+  },
+  {
+    "id": "d20d5f3f63b9",
+    "convexity": 0.983327
+  },
+  {
+    "id": "b24ec06d8504",
+    "convexity": 0.802556
+  },
+  {
+    "id": "0cf7e8465d05",
+    "convexity": 0.943486
+  },
+  {
+    "id": "e5cf90e6cc77",
+    "convexity": 0.871795
+  },
+  {
+    "id": "2568abeb9db9",
+    "convexity": 0.862113
+  },
+  {
+    "id": "850c5f026e59",
+    "convexity": 0.715173
+  },
+  {
+    "id": "01239f859971",
+    "convexity": 0.905644
+  },
+  {
+    "id": "b3308a39e87e",
+    "convexity": 0.792719
+  },
+  {
+    "id": "c6d88ab2d25b",
+    "convexity": 0.73498
+  },
+  {
+    "id": "b90f24409ce9",
+    "convexity": 0.987315
+  },
+  {
+    "id": "24496842e478",
+    "convexity": 0.839499
+  },
+  {
+    "id": "ce7bdb583c8c",
+    "convexity": 0.939219
+  },
+  {
+    "id": "c4db0ef1020d",
+    "convexity": 0.840003
+  },
+  {
+    "id": "1659a8a05b3d",
+    "convexity": 0.791878
+  },
+  {
+    "id": "c011c6017b93",
+    "convexity": 0.740873
+  },
+  {
+    "id": "b4c52e9ed130",
+    "convexity": 0.810664
+  },
+  {
+    "id": "6f85651c2a23",
+    "convexity": 1.0
+  },
+  {
+    "id": "39d758ad62bb",
+    "convexity": 0.712733
+  },
+  {
+    "id": "fab3fd1c35b5",
+    "convexity": 0.917105
+  },
+  {
+    "id": "fb376d1cff61",
+    "convexity": 0.715447
+  }
+]
